@@ -1,0 +1,981 @@
+Year,State,District,Season,Crop,Area,Production,Yield,Rainfall,Temperature,Humidity,Soil_Type,Irrigation_Area
+2010,Uttar Pradesh,Meerut,Rabi,Rice,1052,1977,1.88,405,22,75,Loamy,279
+2010,Uttar Pradesh,Meerut,Rabi,Wheat,575,2139,3.72,1024,35,51,Alluvial,336
+2010,Uttar Pradesh,Kanpur,Rabi,Maize,755,1872,2.48,1146,30,42,Alluvial,1088
+2010,Uttar Pradesh,Kanpur,Rabi,Sugarcane,1734,6675,3.85,313,33,79,Sandy,1470
+2010,Uttar Pradesh,Lucknow,Rabi,Cotton,1314,4257,3.24,1171,20,62,Sandy,1359
+2010,Uttar Pradesh,Varanasi,Rabi,Bajra,1386,5058,3.65,559,15,50,Black,1274
+2010,Uttar Pradesh,Meerut,Kharif,Barley,1044,3246,3.11,486,16,62,Sandy,801
+2010,Punjab,Ludhiana,Rabi,Rice,741,2830,3.82,404,28,62,Loamy,1466
+2010,Punjab,Amritsar,Kharif,Wheat,1986,7785,3.92,967,29,63,Black,589
+2010,Punjab,Ludhiana,Rabi,Maize,539,927,1.72,621,19,80,Sandy,201
+2010,Punjab,Patiala,Kharif,Sugarcane,1918,7230,3.77,1150,28,63,Red,1226
+2010,Punjab,Patiala,Rabi,Cotton,1829,5029,2.75,396,16,63,Sandy,1420
+2010,Punjab,Ludhiana,Kharif,Bajra,1647,4776,2.9,319,34,70,Sandy,312
+2010,Punjab,Amritsar,Rabi,Barley,1454,2515,1.73,1168,26,62,Loamy,964
+2010,Haryana,Karnal,Kharif,Rice,503,1765,3.51,934,16,60,Loamy,330
+2010,Haryana,Rohtak,Rabi,Wheat,1925,3234,1.68,400,33,54,Sandy,200
+2010,Haryana,Karnal,Rabi,Maize,848,2459,2.9,894,33,56,Red,372
+2010,Haryana,Hisar,Rabi,Sugarcane,1065,3706,3.48,884,30,59,Alluvial,1093
+2010,Haryana,Hisar,Kharif,Cotton,695,2425,3.49,1057,31,64,Black,1045
+2010,Haryana,Hisar,Kharif,Bajra,1024,3266,3.19,1188,15,75,Black,325
+2010,Haryana,Karnal,Kharif,Barley,1686,4231,2.51,1115,19,49,Sandy,672
+2010,Rajasthan,Kota,Rabi,Rice,564,941,1.67,697,25,67,Black,275
+2010,Rajasthan,Jaipur,Kharif,Wheat,856,1335,1.56,912,31,54,Black,802
+2010,Rajasthan,Bikaner,Rabi,Maize,1514,4769,3.15,357,30,67,Red,1311
+2010,Rajasthan,Bikaner,Rabi,Sugarcane,1704,6696,3.93,607,18,46,Alluvial,1022
+2010,Rajasthan,Bikaner,Kharif,Cotton,1184,2545,2.15,1076,34,76,Alluvial,936
+2010,Rajasthan,Kota,Rabi,Bajra,782,2095,2.68,308,22,52,Black,906
+2010,Rajasthan,Bikaner,Rabi,Barley,810,2511,3.1,778,35,71,Alluvial,1379
+2010,Maharashtra,Nashik,Rabi,Rice,1214,4212,3.47,600,15,50,Black,607
+2010,Maharashtra,Pune,Kharif,Wheat,916,1465,1.6,781,15,41,Black,1393
+2010,Maharashtra,Pune,Kharif,Maize,1035,2421,2.34,690,19,79,Alluvial,636
+2010,Maharashtra,Nashik,Rabi,Sugarcane,679,2383,3.51,320,17,68,Red,1008
+2010,Maharashtra,Nashik,Kharif,Cotton,800,1984,2.48,339,30,63,Black,1276
+2010,Maharashtra,Pune,Rabi,Bajra,1371,5250,3.83,1014,22,54,Alluvial,773
+2010,Maharashtra,Nashik,Kharif,Barley,870,1313,1.51,995,20,46,Loamy,1233
+2010,Bihar,Gaya,Kharif,Rice,1311,4942,3.77,559,26,40,Loamy,1186
+2010,Bihar,Muzaffarpur,Rabi,Wheat,1979,3839,1.94,408,33,72,Black,306
+2010,Bihar,Gaya,Kharif,Maize,936,3538,3.78,679,34,56,Red,878
+2010,Bihar,Patna,Kharif,Sugarcane,1035,2711,2.62,763,17,77,Black,253
+2010,Bihar,Patna,Rabi,Cotton,585,1503,2.57,506,28,49,Loamy,719
+2010,Bihar,Gaya,Rabi,Bajra,1325,4809,3.63,926,22,64,Loamy,329
+2010,Bihar,Muzaffarpur,Rabi,Barley,1079,3862,3.58,1009,22,64,Red,1340
+2010,Madhya Pradesh,Bhopal,Kharif,Rice,1221,2222,1.82,1160,24,47,Loamy,481
+2010,Madhya Pradesh,Bhopal,Kharif,Wheat,684,1805,2.64,324,22,70,Alluvial,1299
+2010,Madhya Pradesh,Jabalpur,Kharif,Maize,1631,4322,2.65,776,34,70,Alluvial,212
+2010,Madhya Pradesh,Indore,Kharif,Sugarcane,868,1362,1.57,310,27,62,Black,1148
+2010,Madhya Pradesh,Bhopal,Kharif,Cotton,1507,2697,1.79,682,17,46,Red,1390
+2010,Madhya Pradesh,Jabalpur,Rabi,Bajra,678,1667,2.46,1143,29,46,Black,837
+2010,Madhya Pradesh,Bhopal,Rabi,Barley,1285,4664,3.63,586,15,70,Loamy,1383
+2010,Gujarat,Ahmedabad,Kharif,Rice,1758,2865,1.63,492,18,63,Sandy,1234
+2010,Gujarat,Surat,Kharif,Wheat,1805,2888,1.6,627,33,63,Loamy,334
+2010,Gujarat,Rajkot,Kharif,Maize,1980,7444,3.76,1120,33,56,Black,1057
+2010,Gujarat,Rajkot,Kharif,Sugarcane,1732,3533,2.04,1165,33,58,Red,236
+2010,Gujarat,Ahmedabad,Kharif,Cotton,1569,4801,3.06,897,23,51,Sandy,1165
+2010,Gujarat,Rajkot,Kharif,Bajra,879,1854,2.11,540,31,64,Sandy,1006
+2010,Gujarat,Ahmedabad,Rabi,Barley,1836,6444,3.51,1120,25,79,Black,559
+2010,Karnataka,Hubli,Rabi,Rice,742,1639,2.21,806,21,53,Loamy,435
+2010,Karnataka,Mysuru,Rabi,Wheat,858,1647,1.92,1078,32,72,Loamy,299
+2010,Karnataka,Hubli,Kharif,Maize,888,2557,2.88,760,25,44,Black,275
+2010,Karnataka,Mysuru,Kharif,Sugarcane,621,1434,2.31,433,23,43,Sandy,670
+2010,Karnataka,Hubli,Kharif,Cotton,1091,3698,3.39,509,24,49,Alluvial,1110
+2010,Karnataka,Mysuru,Rabi,Bajra,1693,5840,3.45,410,25,64,Sandy,760
+2010,Karnataka,Mysuru,Kharif,Barley,1026,2421,2.36,1193,34,59,Loamy,1049
+2010,Tamil Nadu,Salem,Kharif,Rice,1515,4090,2.7,1162,28,80,Sandy,1209
+2010,Tamil Nadu,Coimbatore,Rabi,Wheat,934,1615,1.73,1145,21,73,Black,1301
+2010,Tamil Nadu,Madurai,Kharif,Maize,882,1755,1.99,645,34,46,Red,857
+2010,Tamil Nadu,Madurai,Rabi,Sugarcane,1381,2085,1.51,1087,18,59,Black,905
+2010,Tamil Nadu,Coimbatore,Kharif,Cotton,585,1784,3.05,661,22,42,Red,890
+2010,Tamil Nadu,Coimbatore,Rabi,Bajra,741,2148,2.9,900,16,80,Loamy,801
+2010,Tamil Nadu,Salem,Rabi,Barley,694,1186,1.71,449,15,66,Black,999
+2011,Uttar Pradesh,Lucknow,Kharif,Rice,1558,5530,3.55,1171,21,72,Loamy,363
+2011,Uttar Pradesh,Lucknow,Rabi,Wheat,1886,4205,2.23,531,33,67,Loamy,259
+2011,Uttar Pradesh,Kanpur,Kharif,Maize,1889,3589,1.9,997,15,53,Black,356
+2011,Uttar Pradesh,Varanasi,Rabi,Sugarcane,590,2247,3.81,1025,30,41,Red,1156
+2011,Uttar Pradesh,Lucknow,Rabi,Cotton,1458,5554,3.81,1100,25,79,Alluvial,1322
+2011,Uttar Pradesh,Kanpur,Rabi,Bajra,1092,4018,3.68,712,17,56,Loamy,696
+2011,Uttar Pradesh,Meerut,Kharif,Barley,1658,6200,3.74,422,16,40,Black,321
+2011,Punjab,Amritsar,Rabi,Rice,765,2639,3.45,1188,15,44,Alluvial,745
+2011,Punjab,Amritsar,Rabi,Wheat,605,986,1.63,981,28,67,Alluvial,467
+2011,Punjab,Amritsar,Rabi,Maize,1234,2714,2.2,1105,28,48,Sandy,971
+2011,Punjab,Ludhiana,Kharif,Sugarcane,1210,1851,1.53,415,28,44,Alluvial,383
+2011,Punjab,Patiala,Rabi,Cotton,1888,5758,3.05,588,21,76,Alluvial,527
+2011,Punjab,Patiala,Kharif,Bajra,1610,4153,2.58,941,26,63,Red,1245
+2011,Punjab,Ludhiana,Rabi,Barley,1156,2300,1.99,979,24,66,Black,973
+2011,Haryana,Karnal,Rabi,Rice,1207,3608,2.99,1140,33,54,Black,1049
+2011,Haryana,Rohtak,Kharif,Wheat,1894,6477,3.42,651,20,49,Loamy,1388
+2011,Haryana,Rohtak,Kharif,Maize,1342,5099,3.8,1145,20,62,Black,1279
+2011,Haryana,Rohtak,Rabi,Sugarcane,614,2075,3.38,764,32,52,Black,278
+2011,Haryana,Karnal,Kharif,Cotton,1131,4048,3.58,944,29,69,Black,1173
+2011,Haryana,Karnal,Rabi,Bajra,537,977,1.82,390,29,54,Loamy,1423
+2011,Haryana,Rohtak,Kharif,Barley,739,1189,1.61,1105,33,70,Black,1172
+2011,Rajasthan,Kota,Rabi,Rice,1749,6541,3.74,490,32,40,Black,1167
+2011,Rajasthan,Bikaner,Kharif,Wheat,1955,5610,2.87,591,28,79,Red,759
+2011,Rajasthan,Kota,Kharif,Maize,1753,6065,3.46,951,28,42,Red,1121
+2011,Rajasthan,Bikaner,Kharif,Sugarcane,515,916,1.78,944,28,78,Alluvial,656
+2011,Rajasthan,Bikaner,Kharif,Cotton,1387,4285,3.09,898,33,46,Red,1172
+2011,Rajasthan,Bikaner,Rabi,Bajra,1287,4581,3.56,381,32,55,Sandy,884
+2011,Rajasthan,Kota,Kharif,Barley,976,2205,2.26,770,27,40,Black,237
+2011,Maharashtra,Pune,Rabi,Rice,1377,2671,1.94,1057,18,48,Sandy,286
+2011,Maharashtra,Nagpur,Kharif,Wheat,915,1720,1.88,579,18,72,Sandy,286
+2011,Maharashtra,Pune,Rabi,Maize,1692,2927,1.73,1169,34,42,Sandy,604
+2011,Maharashtra,Pune,Kharif,Sugarcane,1815,4210,2.32,913,33,40,Red,1493
+2011,Maharashtra,Pune,Rabi,Cotton,1900,3249,1.71,658,17,59,Black,372
+2011,Maharashtra,Nashik,Kharif,Bajra,1133,3591,3.17,1006,25,42,Alluvial,1039
+2011,Maharashtra,Pune,Kharif,Barley,797,2685,3.37,313,34,65,Loamy,1130
+2011,Bihar,Muzaffarpur,Rabi,Rice,1463,5208,3.56,313,35,67,Black,1242
+2011,Bihar,Muzaffarpur,Rabi,Wheat,1239,3964,3.2,1016,24,75,Loamy,839
+2011,Bihar,Gaya,Kharif,Maize,814,2678,3.29,1152,18,74,Sandy,461
+2011,Bihar,Muzaffarpur,Kharif,Sugarcane,1828,4277,2.34,1012,22,57,Black,592
+2011,Bihar,Muzaffarpur,Rabi,Cotton,787,1920,2.44,620,26,80,Sandy,493
+2011,Bihar,Patna,Kharif,Bajra,1003,2918,2.91,1037,27,75,Black,480
+2011,Bihar,Muzaffarpur,Kharif,Barley,1822,6923,3.8,1191,31,55,Sandy,1041
+2011,Madhya Pradesh,Jabalpur,Kharif,Rice,1360,3930,2.89,875,34,52,Black,1254
+2011,Madhya Pradesh,Jabalpur,Rabi,Wheat,979,2643,2.7,1140,21,62,Alluvial,507
+2011,Madhya Pradesh,Bhopal,Rabi,Maize,1650,3630,2.2,987,19,48,Loamy,582
+2011,Madhya Pradesh,Indore,Rabi,Sugarcane,1867,2912,1.56,760,35,80,Alluvial,473
+2011,Madhya Pradesh,Jabalpur,Rabi,Cotton,1586,5138,3.24,758,33,63,Black,902
+2011,Madhya Pradesh,Jabalpur,Kharif,Bajra,581,2277,3.92,583,31,43,Alluvial,1413
+2011,Madhya Pradesh,Jabalpur,Kharif,Barley,649,1771,2.73,1157,33,75,Alluvial,467
+2011,Gujarat,Rajkot,Rabi,Rice,794,1318,1.66,485,29,62,Loamy,1285
+2011,Gujarat,Surat,Rabi,Wheat,1604,4828,3.01,950,17,75,Alluvial,515
+2011,Gujarat,Ahmedabad,Kharif,Maize,1956,3207,1.64,701,22,73,Red,1105
+2011,Gujarat,Rajkot,Kharif,Sugarcane,1238,2030,1.64,959,25,49,Black,1074
+2011,Gujarat,Surat,Rabi,Cotton,935,2057,2.2,928,22,64,Black,563
+2011,Gujarat,Surat,Rabi,Bajra,1605,3835,2.39,988,30,51,Alluvial,1313
+2011,Gujarat,Rajkot,Rabi,Barley,995,2248,2.26,494,16,57,Black,1294
+2011,Karnataka,Mysuru,Kharif,Rice,1782,6896,3.87,877,33,70,Loamy,1196
+2011,Karnataka,Bengaluru,Kharif,Wheat,1877,3528,1.88,763,23,45,Loamy,998
+2011,Karnataka,Mysuru,Kharif,Maize,733,1275,1.74,909,24,70,Red,1223
+2011,Karnataka,Hubli,Kharif,Sugarcane,1425,4531,3.18,751,15,74,Alluvial,664
+2011,Karnataka,Mysuru,Kharif,Cotton,1180,3776,3.2,855,26,79,Sandy,547
+2011,Karnataka,Bengaluru,Kharif,Bajra,1640,6084,3.71,1131,33,44,Loamy,230
+2011,Karnataka,Mysuru,Rabi,Barley,527,1333,2.53,1098,15,69,Loamy,408
+2011,Tamil Nadu,Madurai,Kharif,Rice,1550,3828,2.47,446,32,67,Loamy,1403
+2011,Tamil Nadu,Coimbatore,Rabi,Wheat,1119,4207,3.76,342,26,80,Alluvial,868
+2011,Tamil Nadu,Madurai,Kharif,Maize,517,1204,2.33,986,33,67,Black,1220
+2011,Tamil Nadu,Coimbatore,Kharif,Sugarcane,933,2033,2.18,824,17,64,Sandy,841
+2011,Tamil Nadu,Coimbatore,Kharif,Cotton,1216,3854,3.17,1176,15,70,Alluvial,432
+2011,Tamil Nadu,Salem,Rabi,Bajra,1241,4852,3.91,346,29,79,Loamy,928
+2011,Tamil Nadu,Coimbatore,Rabi,Barley,534,1270,2.38,685,20,61,Black,240
+2012,Uttar Pradesh,Kanpur,Rabi,Rice,547,1537,2.81,521,20,48,Black,1056
+2012,Uttar Pradesh,Meerut,Rabi,Wheat,1659,4429,2.67,780,21,77,Alluvial,1388
+2012,Uttar Pradesh,Kanpur,Kharif,Maize,1788,4487,2.51,1150,33,79,Loamy,258
+2012,Uttar Pradesh,Meerut,Kharif,Sugarcane,751,2335,3.11,462,32,75,Black,234
+2012,Uttar Pradesh,Kanpur,Kharif,Cotton,1708,5619,3.29,768,35,47,Loamy,1290
+2012,Uttar Pradesh,Kanpur,Kharif,Bajra,1542,2976,1.93,420,19,57,Black,317
+2012,Uttar Pradesh,Meerut,Kharif,Barley,766,2336,3.05,494,27,68,Sandy,583
+2012,Punjab,Patiala,Rabi,Rice,510,1601,3.14,1025,33,77,Alluvial,1000
+2012,Punjab,Amritsar,Rabi,Wheat,634,1090,1.72,1093,30,80,Red,1332
+2012,Punjab,Patiala,Rabi,Maize,1174,2359,2.01,1180,21,45,Sandy,465
+2012,Punjab,Ludhiana,Rabi,Sugarcane,1335,3217,2.41,301,35,70,Loamy,1040
+2012,Punjab,Amritsar,Rabi,Cotton,1145,3377,2.95,1091,15,65,Red,1356
+2012,Punjab,Ludhiana,Rabi,Bajra,1916,5058,2.64,519,33,52,Red,1453
+2012,Punjab,Amritsar,Rabi,Barley,695,2780,4.0,1062,20,76,Alluvial,929
+2012,Haryana,Rohtak,Rabi,Rice,1436,5327,3.71,940,29,73,Black,876
+2012,Haryana,Karnal,Rabi,Wheat,1099,3637,3.31,710,22,75,Red,1089
+2012,Haryana,Hisar,Kharif,Maize,1065,4089,3.84,606,20,65,Loamy,1171
+2012,Haryana,Rohtak,Rabi,Sugarcane,1450,3915,2.7,708,26,47,Black,923
+2012,Haryana,Karnal,Rabi,Cotton,1519,3311,2.18,1090,23,73,Red,730
+2012,Haryana,Rohtak,Rabi,Bajra,746,1603,2.15,1166,19,62,Black,526
+2012,Haryana,Rohtak,Kharif,Barley,792,2740,3.46,305,16,49,Loamy,533
+2012,Rajasthan,Bikaner,Kharif,Rice,771,2251,2.92,683,21,74,Alluvial,1149
+2012,Rajasthan,Jaipur,Kharif,Wheat,1294,3882,3.0,334,22,45,Black,957
+2012,Rajasthan,Kota,Kharif,Maize,988,2272,2.3,1186,29,52,Black,1470
+2012,Rajasthan,Kota,Rabi,Sugarcane,1586,4742,2.99,379,32,62,Alluvial,777
+2012,Rajasthan,Bikaner,Kharif,Cotton,604,1588,2.63,997,20,73,Alluvial,933
+2012,Rajasthan,Kota,Kharif,Bajra,881,3162,3.59,850,17,43,Red,505
+2012,Rajasthan,Kota,Kharif,Barley,1535,5541,3.61,953,27,46,Loamy,1294
+2012,Maharashtra,Nashik,Rabi,Rice,668,1503,2.25,486,34,61,Black,1149
+2012,Maharashtra,Pune,Rabi,Wheat,1994,3908,1.96,1114,28,63,Red,1247
+2012,Maharashtra,Pune,Rabi,Maize,1048,2892,2.76,781,31,69,Alluvial,885
+2012,Maharashtra,Pune,Kharif,Sugarcane,572,2230,3.9,1107,21,55,Red,850
+2012,Maharashtra,Pune,Kharif,Cotton,518,1300,2.51,311,25,50,Sandy,836
+2012,Maharashtra,Nashik,Rabi,Bajra,1067,3403,3.19,1003,22,76,Red,517
+2012,Maharashtra,Pune,Rabi,Barley,567,1837,3.24,362,35,63,Red,1327
+2012,Bihar,Patna,Rabi,Rice,1859,4201,2.26,870,30,79,Alluvial,884
+2012,Bihar,Gaya,Rabi,Wheat,603,1296,2.15,388,24,76,Red,275
+2012,Bihar,Muzaffarpur,Kharif,Maize,1490,4961,3.33,837,32,63,Alluvial,247
+2012,Bihar,Patna,Rabi,Sugarcane,1635,4300,2.63,903,22,57,Black,416
+2012,Bihar,Patna,Kharif,Cotton,1803,6454,3.58,773,28,72,Sandy,1010
+2012,Bihar,Gaya,Rabi,Bajra,1504,4933,3.28,496,25,54,Black,1262
+2012,Bihar,Muzaffarpur,Rabi,Barley,1557,4888,3.14,904,23,71,Black,1356
+2012,Madhya Pradesh,Indore,Kharif,Rice,1102,4297,3.9,1101,16,75,Red,776
+2012,Madhya Pradesh,Jabalpur,Kharif,Wheat,1370,4247,3.1,674,31,58,Sandy,430
+2012,Madhya Pradesh,Jabalpur,Rabi,Maize,1963,4632,2.36,1066,32,40,Red,1348
+2012,Madhya Pradesh,Jabalpur,Rabi,Sugarcane,925,2312,2.5,610,35,51,Alluvial,1305
+2012,Madhya Pradesh,Jabalpur,Kharif,Cotton,840,1512,1.8,452,25,71,Red,1395
+2012,Madhya Pradesh,Bhopal,Rabi,Bajra,1979,7282,3.68,349,24,67,Red,943
+2012,Madhya Pradesh,Bhopal,Rabi,Barley,1748,4404,2.52,977,29,68,Black,1446
+2012,Gujarat,Rajkot,Kharif,Rice,1627,5661,3.48,357,23,50,Black,444
+2012,Gujarat,Surat,Kharif,Wheat,1561,3043,1.95,648,31,76,Loamy,527
+2012,Gujarat,Surat,Kharif,Maize,1433,3754,2.62,969,27,72,Black,298
+2012,Gujarat,Rajkot,Rabi,Sugarcane,1524,3718,2.44,407,17,59,Alluvial,1330
+2012,Gujarat,Surat,Rabi,Cotton,636,2524,3.97,579,31,74,Loamy,245
+2012,Gujarat,Rajkot,Rabi,Bajra,1187,1922,1.62,525,35,74,Red,435
+2012,Gujarat,Rajkot,Rabi,Barley,1804,5339,2.96,694,21,41,Red,355
+2012,Karnataka,Hubli,Rabi,Rice,1057,3921,3.71,918,34,80,Red,643
+2012,Karnataka,Mysuru,Rabi,Wheat,944,1699,1.8,300,27,46,Black,1222
+2012,Karnataka,Bengaluru,Kharif,Maize,1745,6072,3.48,720,24,58,Red,226
+2012,Karnataka,Bengaluru,Kharif,Sugarcane,1178,2780,2.36,1199,27,50,Alluvial,467
+2012,Karnataka,Hubli,Rabi,Cotton,604,2397,3.97,1075,19,80,Alluvial,1207
+2012,Karnataka,Hubli,Rabi,Bajra,1333,3759,2.82,821,23,50,Loamy,654
+2012,Karnataka,Bengaluru,Kharif,Barley,808,2577,3.19,1159,22,44,Black,888
+2012,Tamil Nadu,Madurai,Rabi,Rice,1028,2343,2.28,502,17,42,Red,776
+2012,Tamil Nadu,Madurai,Kharif,Wheat,1388,2415,1.74,766,22,77,Black,1193
+2012,Tamil Nadu,Madurai,Rabi,Maize,1581,5359,3.39,398,17,66,Loamy,375
+2012,Tamil Nadu,Salem,Rabi,Sugarcane,916,1850,2.02,836,28,58,Loamy,1011
+2012,Tamil Nadu,Salem,Kharif,Cotton,522,2030,3.89,975,28,56,Black,635
+2012,Tamil Nadu,Madurai,Kharif,Bajra,1414,3011,2.13,528,28,49,Red,672
+2012,Tamil Nadu,Madurai,Kharif,Barley,1537,4780,3.11,595,15,63,Loamy,748
+2013,Uttar Pradesh,Kanpur,Kharif,Rice,1585,3170,2.0,342,15,45,Black,1164
+2013,Uttar Pradesh,Lucknow,Rabi,Wheat,1180,4460,3.78,941,22,55,Sandy,481
+2013,Uttar Pradesh,Meerut,Rabi,Maize,699,1908,2.73,1041,28,78,Red,1194
+2013,Uttar Pradesh,Lucknow,Rabi,Sugarcane,640,2099,3.28,938,29,52,Loamy,600
+2013,Uttar Pradesh,Lucknow,Kharif,Cotton,1615,5135,3.18,1018,24,45,Sandy,1351
+2013,Uttar Pradesh,Lucknow,Rabi,Bajra,898,2182,2.43,425,16,47,Alluvial,723
+2013,Uttar Pradesh,Lucknow,Rabi,Barley,1156,2416,2.09,660,32,62,Black,774
+2013,Punjab,Patiala,Kharif,Rice,1942,6175,3.18,520,18,41,Sandy,741
+2013,Punjab,Amritsar,Rabi,Wheat,839,2743,3.27,450,16,60,Red,824
+2013,Punjab,Ludhiana,Kharif,Maize,1149,4481,3.9,436,30,54,Alluvial,928
+2013,Punjab,Amritsar,Kharif,Sugarcane,1637,3519,2.15,908,18,64,Alluvial,321
+2013,Punjab,Amritsar,Kharif,Cotton,1044,4082,3.91,1102,33,54,Red,1039
+2013,Punjab,Amritsar,Kharif,Bajra,1937,6682,3.45,771,24,49,Red,1133
+2013,Punjab,Amritsar,Rabi,Barley,1727,5509,3.19,442,34,65,Loamy,1251
+2013,Haryana,Hisar,Kharif,Rice,699,1230,1.76,766,27,54,Alluvial,1127
+2013,Haryana,Karnal,Kharif,Wheat,1802,6252,3.47,814,25,57,Loamy,253
+2013,Haryana,Hisar,Kharif,Maize,1129,3567,3.16,856,29,58,Alluvial,956
+2013,Haryana,Karnal,Rabi,Sugarcane,649,2531,3.9,537,24,56,Sandy,546
+2013,Haryana,Hisar,Rabi,Cotton,702,1762,2.51,894,17,42,Black,240
+2013,Haryana,Karnal,Rabi,Bajra,795,2281,2.87,1046,21,42,Red,1259
+2013,Haryana,Hisar,Rabi,Barley,1742,6131,3.52,695,24,59,Alluvial,1025
+2013,Rajasthan,Kota,Kharif,Rice,1893,3672,1.94,445,31,77,Red,1047
+2013,Rajasthan,Kota,Kharif,Wheat,1328,4966,3.74,1165,29,68,Black,903
+2013,Rajasthan,Kota,Rabi,Maize,1392,3118,2.24,684,17,75,Red,932
+2013,Rajasthan,Kota,Kharif,Sugarcane,862,2301,2.67,800,30,67,Black,395
+2013,Rajasthan,Kota,Kharif,Cotton,765,2310,3.02,643,25,44,Alluvial,1167
+2013,Rajasthan,Jaipur,Kharif,Bajra,1136,3578,3.15,610,33,57,Loamy,1105
+2013,Rajasthan,Bikaner,Rabi,Barley,814,2653,3.26,946,20,61,Loamy,751
+2013,Maharashtra,Pune,Kharif,Rice,1441,3833,2.66,654,32,78,Alluvial,395
+2013,Maharashtra,Nagpur,Kharif,Wheat,1962,5650,2.88,606,35,45,Sandy,295
+2013,Maharashtra,Nagpur,Rabi,Maize,1809,3871,2.14,652,24,47,Red,629
+2013,Maharashtra,Nagpur,Rabi,Sugarcane,928,3192,3.44,776,19,75,Red,828
+2013,Maharashtra,Pune,Kharif,Cotton,1917,6767,3.53,1000,21,69,Sandy,597
+2013,Maharashtra,Nashik,Rabi,Bajra,1505,5342,3.55,1132,20,42,Red,753
+2013,Maharashtra,Nashik,Kharif,Barley,639,1150,1.8,804,32,70,Loamy,1476
+2013,Bihar,Gaya,Rabi,Rice,1922,6361,3.31,700,35,42,Alluvial,736
+2013,Bihar,Gaya,Kharif,Wheat,1594,5084,3.19,1109,22,52,Sandy,1046
+2013,Bihar,Gaya,Kharif,Maize,1714,4130,2.41,305,33,80,Black,973
+2013,Bihar,Muzaffarpur,Kharif,Sugarcane,962,1481,1.54,349,16,55,Loamy,1432
+2013,Bihar,Gaya,Rabi,Cotton,746,1395,1.87,744,28,68,Red,1199
+2013,Bihar,Gaya,Kharif,Bajra,1610,6311,3.92,641,25,72,Alluvial,235
+2013,Bihar,Muzaffarpur,Kharif,Barley,1584,4957,3.13,935,23,60,Loamy,709
+2013,Madhya Pradesh,Jabalpur,Kharif,Rice,1420,5097,3.59,785,16,54,Alluvial,706
+2013,Madhya Pradesh,Jabalpur,Rabi,Wheat,1957,3503,1.79,475,18,62,Loamy,1344
+2013,Madhya Pradesh,Indore,Rabi,Maize,1401,5141,3.67,1064,16,66,Loamy,775
+2013,Madhya Pradesh,Bhopal,Kharif,Sugarcane,1230,2017,1.64,915,23,77,Black,694
+2013,Madhya Pradesh,Indore,Rabi,Cotton,1329,3535,2.66,708,35,68,Red,857
+2013,Madhya Pradesh,Bhopal,Rabi,Bajra,1636,2552,1.56,845,24,61,Loamy,1353
+2013,Madhya Pradesh,Jabalpur,Rabi,Barley,1106,3959,3.58,1067,23,76,Sandy,1100
+2013,Gujarat,Ahmedabad,Kharif,Rice,1401,3754,2.68,471,16,40,Black,271
+2013,Gujarat,Surat,Rabi,Wheat,1598,5353,3.35,793,33,51,Sandy,1290
+2013,Gujarat,Ahmedabad,Kharif,Maize,1685,5964,3.54,807,24,59,Alluvial,221
+2013,Gujarat,Ahmedabad,Kharif,Sugarcane,1642,3169,1.93,313,20,77,Black,752
+2013,Gujarat,Ahmedabad,Kharif,Cotton,1355,4146,3.06,806,27,51,Black,489
+2013,Gujarat,Surat,Kharif,Bajra,951,1816,1.91,339,22,74,Alluvial,369
+2013,Gujarat,Rajkot,Rabi,Barley,639,1616,2.53,328,19,48,Black,503
+2013,Karnataka,Bengaluru,Rabi,Rice,509,1608,3.16,931,29,78,Alluvial,724
+2013,Karnataka,Bengaluru,Kharif,Wheat,1485,5672,3.82,1047,30,44,Black,847
+2013,Karnataka,Bengaluru,Kharif,Maize,862,3370,3.91,1137,35,50,Alluvial,236
+2013,Karnataka,Hubli,Rabi,Sugarcane,754,1515,2.01,980,32,79,Alluvial,1232
+2013,Karnataka,Hubli,Kharif,Cotton,641,1974,3.08,874,31,76,Alluvial,315
+2013,Karnataka,Hubli,Kharif,Bajra,1709,6272,3.67,764,21,71,Loamy,1389
+2013,Karnataka,Hubli,Kharif,Barley,829,2951,3.56,699,35,45,Loamy,1221
+2013,Tamil Nadu,Madurai,Kharif,Rice,1513,4009,2.65,405,30,51,Red,469
+2013,Tamil Nadu,Coimbatore,Rabi,Wheat,1596,5729,3.59,544,20,80,Black,922
+2013,Tamil Nadu,Madurai,Kharif,Maize,967,3761,3.89,597,19,67,Alluvial,897
+2013,Tamil Nadu,Coimbatore,Kharif,Sugarcane,1376,5077,3.69,638,26,77,Black,1084
+2013,Tamil Nadu,Coimbatore,Rabi,Cotton,888,1651,1.86,467,17,40,Sandy,698
+2013,Tamil Nadu,Madurai,Rabi,Bajra,624,1304,2.09,861,31,63,Sandy,651
+2013,Tamil Nadu,Coimbatore,Rabi,Barley,1060,2703,2.55,474,31,55,Sandy,1248
+2014,Uttar Pradesh,Kanpur,Kharif,Rice,555,1837,3.31,399,25,60,Black,1181
+2014,Uttar Pradesh,Lucknow,Rabi,Wheat,1534,5767,3.76,315,23,59,Alluvial,1446
+2014,Uttar Pradesh,Kanpur,Kharif,Maize,1772,4678,2.64,593,23,61,Red,882
+2014,Uttar Pradesh,Kanpur,Kharif,Sugarcane,1273,4099,3.22,506,34,70,Black,983
+2014,Uttar Pradesh,Varanasi,Kharif,Cotton,526,1925,3.66,709,18,49,Loamy,706
+2014,Uttar Pradesh,Meerut,Kharif,Bajra,1796,3160,1.76,902,19,56,Loamy,565
+2014,Uttar Pradesh,Lucknow,Kharif,Barley,1662,4254,2.56,811,26,70,Sandy,1359
+2014,Punjab,Amritsar,Kharif,Rice,527,1691,3.21,952,32,47,Black,1313
+2014,Punjab,Amritsar,Kharif,Wheat,1314,2654,2.02,624,21,77,Loamy,1002
+2014,Punjab,Ludhiana,Kharif,Maize,1609,6162,3.83,830,33,62,Red,1096
+2014,Punjab,Ludhiana,Kharif,Sugarcane,1887,2962,1.57,479,21,62,Alluvial,1071
+2014,Punjab,Ludhiana,Kharif,Cotton,983,2280,2.32,1150,17,78,Red,965
+2014,Punjab,Patiala,Rabi,Bajra,1925,7064,3.67,772,23,60,Red,1146
+2014,Punjab,Amritsar,Kharif,Barley,731,1220,1.67,1142,20,71,Black,1498
+2014,Haryana,Karnal,Rabi,Rice,1562,2405,1.54,856,20,65,Alluvial,1296
+2014,Haryana,Hisar,Kharif,Wheat,840,1822,2.17,1076,28,80,Black,1373
+2014,Haryana,Karnal,Rabi,Maize,1544,5018,3.25,338,30,40,Black,283
+2014,Haryana,Karnal,Kharif,Sugarcane,849,1332,1.57,402,26,64,Black,364
+2014,Haryana,Rohtak,Kharif,Cotton,1185,4680,3.95,641,22,41,Black,819
+2014,Haryana,Hisar,Rabi,Bajra,1177,4543,3.86,577,25,80,Loamy,1036
+2014,Haryana,Karnal,Rabi,Barley,628,1727,2.75,1148,27,50,Red,1378
+2014,Rajasthan,Jaipur,Kharif,Rice,777,2991,3.85,1061,22,48,Black,357
+2014,Rajasthan,Jaipur,Rabi,Wheat,1660,3419,2.06,1155,17,56,Black,1076
+2014,Rajasthan,Bikaner,Rabi,Maize,1894,4053,2.14,899,21,60,Sandy,607
+2014,Rajasthan,Kota,Rabi,Sugarcane,905,2995,3.31,377,15,69,Alluvial,1145
+2014,Rajasthan,Kota,Kharif,Cotton,1155,3245,2.81,915,32,65,Red,523
+2014,Rajasthan,Bikaner,Rabi,Bajra,1315,3800,2.89,724,15,54,Loamy,1087
+2014,Rajasthan,Jaipur,Kharif,Barley,1292,3540,2.74,1099,35,60,Red,668
+2014,Maharashtra,Pune,Kharif,Rice,504,1234,2.45,532,30,61,Loamy,836
+2014,Maharashtra,Pune,Kharif,Wheat,1399,2616,1.87,833,26,46,Sandy,1265
+2014,Maharashtra,Nagpur,Rabi,Maize,945,2825,2.99,824,25,66,Red,1172
+2014,Maharashtra,Nagpur,Rabi,Sugarcane,1974,5546,2.81,598,16,70,Sandy,1267
+2014,Maharashtra,Pune,Rabi,Cotton,1635,6114,3.74,972,23,53,Loamy,1028
+2014,Maharashtra,Pune,Kharif,Bajra,538,2033,3.78,444,19,72,Loamy,1170
+2014,Maharashtra,Nagpur,Kharif,Barley,1528,3438,2.25,672,15,64,Sandy,419
+2014,Bihar,Gaya,Rabi,Rice,1874,6015,3.21,436,27,67,Red,874
+2014,Bihar,Gaya,Rabi,Wheat,568,2181,3.84,748,26,77,Sandy,224
+2014,Bihar,Patna,Kharif,Maize,623,1152,1.85,533,35,48,Sandy,235
+2014,Bihar,Patna,Rabi,Sugarcane,718,2333,3.25,1021,34,70,Red,632
+2014,Bihar,Gaya,Kharif,Cotton,901,3540,3.93,709,22,67,Black,499
+2014,Bihar,Muzaffarpur,Kharif,Bajra,1127,1690,1.5,887,26,77,Alluvial,692
+2014,Bihar,Patna,Kharif,Barley,869,2667,3.07,904,19,60,Loamy,1355
+2014,Madhya Pradesh,Bhopal,Rabi,Rice,1281,2690,2.1,1147,17,72,Sandy,1046
+2014,Madhya Pradesh,Bhopal,Rabi,Wheat,686,2277,3.32,400,27,40,Sandy,1158
+2014,Madhya Pradesh,Bhopal,Rabi,Maize,976,1981,2.03,488,25,76,Red,412
+2014,Madhya Pradesh,Jabalpur,Rabi,Sugarcane,881,1453,1.65,963,35,41,Red,1249
+2014,Madhya Pradesh,Bhopal,Rabi,Cotton,501,1758,3.51,745,19,78,Alluvial,922
+2014,Madhya Pradesh,Indore,Rabi,Bajra,774,3080,3.98,688,17,64,Loamy,322
+2014,Madhya Pradesh,Indore,Rabi,Barley,1389,4028,2.9,568,31,70,Black,873
+2014,Gujarat,Surat,Kharif,Rice,739,2704,3.66,789,25,64,Sandy,977
+2014,Gujarat,Rajkot,Rabi,Wheat,996,3864,3.88,946,24,40,Alluvial,1055
+2014,Gujarat,Surat,Rabi,Maize,1195,4505,3.77,702,31,46,Sandy,941
+2014,Gujarat,Surat,Rabi,Sugarcane,1781,4025,2.26,859,28,61,Red,1360
+2014,Gujarat,Ahmedabad,Kharif,Cotton,1380,2097,1.52,774,29,58,Sandy,1082
+2014,Gujarat,Surat,Rabi,Bajra,1509,3289,2.18,938,25,72,Red,395
+2014,Gujarat,Ahmedabad,Kharif,Barley,622,2481,3.99,816,17,72,Alluvial,450
+2014,Karnataka,Mysuru,Rabi,Rice,981,3825,3.9,528,29,59,Red,1175
+2014,Karnataka,Hubli,Kharif,Wheat,1256,3253,2.59,875,33,45,Black,1000
+2014,Karnataka,Bengaluru,Kharif,Maize,1939,7600,3.92,824,21,72,Red,797
+2014,Karnataka,Hubli,Rabi,Sugarcane,748,1496,2.0,747,25,55,Alluvial,673
+2014,Karnataka,Hubli,Rabi,Cotton,1599,3070,1.92,754,35,75,Red,477
+2014,Karnataka,Hubli,Kharif,Bajra,1947,5996,3.08,1103,33,54,Sandy,316
+2014,Karnataka,Hubli,Rabi,Barley,1153,3459,3.0,907,21,55,Alluvial,1337
+2014,Tamil Nadu,Salem,Kharif,Rice,1773,6560,3.7,814,29,45,Red,1301
+2014,Tamil Nadu,Coimbatore,Kharif,Wheat,1923,5615,2.92,654,30,53,Alluvial,452
+2014,Tamil Nadu,Coimbatore,Kharif,Maize,1283,2065,1.61,544,31,61,Red,289
+2014,Tamil Nadu,Madurai,Rabi,Sugarcane,1411,4529,3.21,575,29,48,Loamy,1050
+2014,Tamil Nadu,Madurai,Rabi,Cotton,1204,3816,3.17,514,26,62,Alluvial,904
+2014,Tamil Nadu,Madurai,Kharif,Bajra,1037,1607,1.55,424,33,56,Red,657
+2014,Tamil Nadu,Salem,Rabi,Barley,675,1822,2.7,847,20,59,Alluvial,368
+2015,Uttar Pradesh,Kanpur,Rabi,Rice,1672,6186,3.7,397,24,75,Alluvial,1216
+2015,Uttar Pradesh,Kanpur,Kharif,Wheat,1696,5071,2.99,412,32,50,Sandy,1409
+2015,Uttar Pradesh,Meerut,Kharif,Maize,1528,3560,2.33,1120,16,68,Sandy,1301
+2015,Uttar Pradesh,Meerut,Rabi,Sugarcane,1637,5271,3.22,1072,24,59,Alluvial,751
+2015,Uttar Pradesh,Varanasi,Rabi,Cotton,1099,2230,2.03,1035,33,68,Red,1373
+2015,Uttar Pradesh,Varanasi,Kharif,Bajra,1556,4948,3.18,782,19,66,Red,1324
+2015,Uttar Pradesh,Meerut,Kharif,Barley,583,1533,2.63,687,20,63,Black,812
+2015,Punjab,Patiala,Kharif,Rice,899,3056,3.4,1132,21,41,Black,1436
+2015,Punjab,Patiala,Rabi,Wheat,1833,6507,3.55,530,17,62,Loamy,1170
+2015,Punjab,Amritsar,Kharif,Maize,728,2504,3.44,669,15,56,Loamy,1220
+2015,Punjab,Amritsar,Rabi,Sugarcane,1040,1934,1.86,960,25,56,Alluvial,1350
+2015,Punjab,Amritsar,Kharif,Cotton,614,2001,3.26,523,19,70,Black,1482
+2015,Punjab,Amritsar,Kharif,Bajra,1541,4037,2.62,938,34,71,Sandy,1459
+2015,Punjab,Ludhiana,Kharif,Barley,540,2100,3.89,1119,17,49,Sandy,1223
+2015,Haryana,Karnal,Rabi,Rice,1385,4681,3.38,416,22,42,Black,690
+2015,Haryana,Hisar,Rabi,Wheat,1712,6163,3.6,999,29,48,Alluvial,1127
+2015,Haryana,Karnal,Kharif,Maize,1560,5662,3.63,400,23,75,Black,1196
+2015,Haryana,Hisar,Kharif,Sugarcane,876,1559,1.78,608,24,41,Loamy,1085
+2015,Haryana,Rohtak,Kharif,Cotton,966,3352,3.47,947,29,59,Red,1239
+2015,Haryana,Rohtak,Rabi,Bajra,720,2340,3.25,656,34,51,Red,364
+2015,Haryana,Hisar,Kharif,Barley,1714,3685,2.15,1127,20,55,Loamy,1260
+2015,Rajasthan,Jaipur,Rabi,Rice,589,1967,3.34,394,26,78,Red,461
+2015,Rajasthan,Jaipur,Rabi,Wheat,1441,2175,1.51,303,19,51,Black,1376
+2015,Rajasthan,Jaipur,Rabi,Maize,1302,4778,3.67,914,31,45,Black,575
+2015,Rajasthan,Kota,Rabi,Sugarcane,1737,3439,1.98,917,19,67,Loamy,885
+2015,Rajasthan,Kota,Kharif,Cotton,820,2648,3.23,374,33,76,Black,1059
+2015,Rajasthan,Jaipur,Kharif,Bajra,1128,3519,3.12,594,23,61,Sandy,403
+2015,Rajasthan,Jaipur,Rabi,Barley,1313,3453,2.63,575,31,65,Black,366
+2015,Maharashtra,Nagpur,Kharif,Rice,1150,2323,2.02,718,30,80,Black,248
+2015,Maharashtra,Pune,Rabi,Wheat,814,2230,2.74,676,21,72,Loamy,528
+2015,Maharashtra,Nagpur,Rabi,Maize,1960,6899,3.52,690,18,77,Sandy,1185
+2015,Maharashtra,Pune,Kharif,Sugarcane,1955,5825,2.98,331,19,72,Loamy,648
+2015,Maharashtra,Nashik,Rabi,Cotton,970,2880,2.97,1034,32,68,Red,328
+2015,Maharashtra,Pune,Kharif,Bajra,701,1338,1.91,451,23,61,Sandy,1239
+2015,Maharashtra,Nagpur,Rabi,Barley,1040,3078,2.96,965,16,60,Sandy,1297
+2015,Bihar,Gaya,Kharif,Rice,1741,3551,2.04,1045,24,52,Red,207
+2015,Bihar,Muzaffarpur,Rabi,Wheat,904,2938,3.25,860,20,59,Black,1273
+2015,Bihar,Muzaffarpur,Rabi,Maize,1961,7138,3.64,1109,25,42,Sandy,682
+2015,Bihar,Patna,Kharif,Sugarcane,637,1324,2.08,589,21,59,Sandy,1397
+2015,Bihar,Gaya,Rabi,Cotton,1754,6139,3.5,534,34,70,Sandy,443
+2015,Bihar,Muzaffarpur,Rabi,Bajra,1090,2005,1.84,1034,27,62,Red,811
+2015,Bihar,Gaya,Kharif,Barley,1002,3537,3.53,957,28,56,Loamy,1018
+2015,Madhya Pradesh,Jabalpur,Kharif,Rice,1794,5704,3.18,1184,24,67,Loamy,629
+2015,Madhya Pradesh,Jabalpur,Rabi,Wheat,934,2643,2.83,698,33,49,Loamy,471
+2015,Madhya Pradesh,Jabalpur,Kharif,Maize,1610,3300,2.05,667,20,76,Alluvial,646
+2015,Madhya Pradesh,Bhopal,Kharif,Sugarcane,1934,6440,3.33,960,32,74,Loamy,424
+2015,Madhya Pradesh,Bhopal,Rabi,Cotton,1695,3423,2.02,337,34,52,Red,841
+2015,Madhya Pradesh,Bhopal,Kharif,Bajra,1710,2582,1.51,368,33,60,Black,622
+2015,Madhya Pradesh,Bhopal,Rabi,Barley,1939,6476,3.34,1108,23,63,Red,1472
+2015,Gujarat,Rajkot,Kharif,Rice,1851,3239,1.75,692,29,79,Loamy,1319
+2015,Gujarat,Surat,Rabi,Wheat,1636,5807,3.55,493,29,62,Black,1169
+2015,Gujarat,Surat,Rabi,Maize,1408,2548,1.81,830,31,43,Red,1269
+2015,Gujarat,Rajkot,Rabi,Sugarcane,1301,5034,3.87,732,16,54,Alluvial,516
+2015,Gujarat,Surat,Rabi,Cotton,1645,5576,3.39,805,29,62,Loamy,1331
+2015,Gujarat,Surat,Rabi,Bajra,1165,1770,1.52,1124,28,41,Black,280
+2015,Gujarat,Rajkot,Kharif,Barley,1108,3944,3.56,1150,35,56,Loamy,205
+2015,Karnataka,Bengaluru,Kharif,Rice,1379,2992,2.17,542,31,67,Red,682
+2015,Karnataka,Mysuru,Rabi,Wheat,1586,3679,2.32,394,35,75,Loamy,249
+2015,Karnataka,Mysuru,Rabi,Maize,1695,4627,2.73,551,15,53,Black,433
+2015,Karnataka,Bengaluru,Kharif,Sugarcane,801,3195,3.99,699,34,59,Sandy,242
+2015,Karnataka,Mysuru,Kharif,Cotton,1663,2660,1.6,682,17,69,Sandy,1005
+2015,Karnataka,Bengaluru,Rabi,Bajra,983,3823,3.89,763,18,64,Red,732
+2015,Karnataka,Bengaluru,Rabi,Barley,825,2755,3.34,864,17,41,Red,944
+2015,Tamil Nadu,Coimbatore,Kharif,Rice,558,2031,3.64,380,34,76,Loamy,343
+2015,Tamil Nadu,Salem,Kharif,Wheat,1477,4179,2.83,422,22,68,Loamy,598
+2015,Tamil Nadu,Coimbatore,Kharif,Maize,995,3283,3.3,409,18,43,Black,1369
+2015,Tamil Nadu,Salem,Kharif,Sugarcane,909,2154,2.37,1079,27,40,Loamy,244
+2015,Tamil Nadu,Salem,Kharif,Cotton,592,2196,3.71,415,31,42,Sandy,1285
+2015,Tamil Nadu,Salem,Rabi,Bajra,764,1764,2.31,529,26,48,Black,225
+2015,Tamil Nadu,Madurai,Kharif,Barley,1398,2292,1.64,1011,30,63,Red,856
+2016,Uttar Pradesh,Meerut,Kharif,Rice,1411,3936,2.79,651,28,42,Loamy,263
+2016,Uttar Pradesh,Meerut,Rabi,Wheat,1357,4030,2.97,789,30,70,Loamy,847
+2016,Uttar Pradesh,Kanpur,Rabi,Maize,1690,6388,3.78,1187,34,74,Red,610
+2016,Uttar Pradesh,Varanasi,Rabi,Sugarcane,1998,6353,3.18,1053,16,80,Red,1069
+2016,Uttar Pradesh,Varanasi,Kharif,Cotton,981,3109,3.17,1159,19,69,Alluvial,548
+2016,Uttar Pradesh,Kanpur,Kharif,Bajra,1016,2397,2.36,979,31,70,Alluvial,308
+2016,Uttar Pradesh,Meerut,Rabi,Barley,938,2889,3.08,623,31,44,Black,1117
+2016,Punjab,Ludhiana,Kharif,Rice,1857,5311,2.86,675,23,43,Loamy,652
+2016,Punjab,Amritsar,Kharif,Wheat,1249,2622,2.1,534,15,56,Black,324
+2016,Punjab,Patiala,Rabi,Maize,1980,3841,1.94,770,21,65,Red,1204
+2016,Punjab,Ludhiana,Rabi,Sugarcane,1834,3539,1.93,998,17,44,Sandy,942
+2016,Punjab,Amritsar,Kharif,Cotton,570,1396,2.45,793,27,60,Loamy,1136
+2016,Punjab,Amritsar,Rabi,Bajra,1014,3396,3.35,693,31,67,Alluvial,944
+2016,Punjab,Amritsar,Rabi,Barley,1312,3949,3.01,326,32,54,Black,1085
+2016,Haryana,Hisar,Rabi,Rice,1264,4512,3.57,358,35,44,Alluvial,549
+2016,Haryana,Hisar,Kharif,Wheat,642,1399,2.18,1115,35,59,Sandy,996
+2016,Haryana,Hisar,Rabi,Maize,1023,1647,1.61,399,32,62,Alluvial,693
+2016,Haryana,Rohtak,Rabi,Sugarcane,597,1008,1.69,365,20,47,Alluvial,649
+2016,Haryana,Karnal,Kharif,Cotton,568,2084,3.67,1095,27,41,Sandy,1048
+2016,Haryana,Rohtak,Rabi,Bajra,945,2551,2.7,662,31,58,Alluvial,533
+2016,Haryana,Rohtak,Kharif,Barley,688,1527,2.22,870,32,73,Black,957
+2016,Rajasthan,Jaipur,Rabi,Rice,780,1786,2.29,991,15,59,Sandy,1409
+2016,Rajasthan,Kota,Kharif,Wheat,979,3583,3.66,336,22,64,Sandy,1386
+2016,Rajasthan,Kota,Rabi,Maize,1589,3066,1.93,645,18,78,Loamy,733
+2016,Rajasthan,Jaipur,Rabi,Sugarcane,1668,3803,2.28,863,25,70,Loamy,200
+2016,Rajasthan,Jaipur,Kharif,Cotton,1102,2413,2.19,899,27,60,Alluvial,1136
+2016,Rajasthan,Bikaner,Kharif,Bajra,1416,2718,1.92,632,31,54,Alluvial,661
+2016,Rajasthan,Bikaner,Rabi,Barley,1369,3682,2.69,300,27,78,Loamy,296
+2016,Maharashtra,Nagpur,Kharif,Rice,1258,3207,2.55,697,26,42,Sandy,320
+2016,Maharashtra,Pune,Kharif,Wheat,1091,2171,1.99,1010,25,56,Black,943
+2016,Maharashtra,Nashik,Kharif,Maize,1118,1945,1.74,674,22,40,Red,1482
+2016,Maharashtra,Nagpur,Rabi,Sugarcane,1763,2873,1.63,1097,21,75,Loamy,1206
+2016,Maharashtra,Pune,Kharif,Cotton,1515,3166,2.09,813,25,75,Black,948
+2016,Maharashtra,Pune,Rabi,Bajra,871,2046,2.35,1062,34,78,Sandy,1357
+2016,Maharashtra,Nagpur,Kharif,Barley,1758,6680,3.8,875,32,60,Red,215
+2016,Bihar,Patna,Rabi,Rice,638,2462,3.86,411,25,52,Red,1034
+2016,Bihar,Gaya,Rabi,Wheat,1586,5281,3.33,893,16,54,Alluvial,1002
+2016,Bihar,Muzaffarpur,Kharif,Maize,796,3176,3.99,558,29,49,Black,469
+2016,Bihar,Patna,Kharif,Sugarcane,1106,2455,2.22,791,23,57,Black,1148
+2016,Bihar,Muzaffarpur,Rabi,Cotton,854,2869,3.36,789,31,63,Black,553
+2016,Bihar,Gaya,Kharif,Bajra,1620,5686,3.51,553,26,65,Loamy,1203
+2016,Bihar,Gaya,Kharif,Barley,1225,2008,1.64,797,28,63,Sandy,1038
+2016,Madhya Pradesh,Jabalpur,Kharif,Rice,1483,4864,3.28,312,25,79,Alluvial,1266
+2016,Madhya Pradesh,Indore,Kharif,Wheat,578,1895,3.28,554,20,59,Red,1005
+2016,Madhya Pradesh,Jabalpur,Rabi,Maize,1189,3840,3.23,663,25,42,Loamy,266
+2016,Madhya Pradesh,Jabalpur,Rabi,Sugarcane,1431,5423,3.79,1017,27,40,Alluvial,500
+2016,Madhya Pradesh,Jabalpur,Kharif,Cotton,1120,2654,2.37,1188,25,66,Sandy,1120
+2016,Madhya Pradesh,Jabalpur,Rabi,Bajra,1369,3299,2.41,1121,28,68,Alluvial,1337
+2016,Madhya Pradesh,Bhopal,Kharif,Barley,1480,5860,3.96,760,18,59,Red,341
+2016,Gujarat,Surat,Kharif,Rice,695,2363,3.4,1027,16,57,Black,245
+2016,Gujarat,Rajkot,Kharif,Wheat,800,2072,2.59,690,34,59,Red,426
+2016,Gujarat,Surat,Rabi,Maize,855,1829,2.14,838,23,41,Black,1274
+2016,Gujarat,Ahmedabad,Kharif,Sugarcane,1066,3421,3.21,968,33,73,Black,253
+2016,Gujarat,Ahmedabad,Rabi,Cotton,1379,5212,3.78,1173,15,71,Black,1113
+2016,Gujarat,Rajkot,Kharif,Bajra,1359,2133,1.57,855,32,49,Alluvial,366
+2016,Gujarat,Rajkot,Rabi,Barley,544,1871,3.44,608,34,49,Loamy,638
+2016,Karnataka,Bengaluru,Kharif,Rice,530,826,1.56,828,30,51,Red,738
+2016,Karnataka,Mysuru,Kharif,Wheat,1692,5617,3.32,1038,22,43,Black,819
+2016,Karnataka,Mysuru,Rabi,Maize,776,2071,2.67,552,29,51,Red,330
+2016,Karnataka,Bengaluru,Kharif,Sugarcane,741,1748,2.36,594,28,50,Sandy,614
+2016,Karnataka,Hubli,Kharif,Cotton,1233,3649,2.96,695,27,68,Black,753
+2016,Karnataka,Hubli,Rabi,Bajra,1547,2722,1.76,605,15,60,Alluvial,1060
+2016,Karnataka,Hubli,Kharif,Barley,1058,2211,2.09,734,19,55,Black,1489
+2016,Tamil Nadu,Salem,Rabi,Rice,738,1557,2.11,771,24,51,Sandy,259
+2016,Tamil Nadu,Coimbatore,Kharif,Wheat,824,2661,3.23,917,18,56,Red,255
+2016,Tamil Nadu,Coimbatore,Rabi,Maize,1078,2511,2.33,856,33,48,Alluvial,745
+2016,Tamil Nadu,Madurai,Kharif,Sugarcane,1858,6019,3.24,641,34,58,Red,1173
+2016,Tamil Nadu,Salem,Rabi,Cotton,1327,5294,3.99,1196,15,54,Red,372
+2016,Tamil Nadu,Salem,Kharif,Bajra,1822,3917,2.15,894,29,70,Black,837
+2016,Tamil Nadu,Madurai,Rabi,Barley,1905,5715,3.0,1135,35,45,Alluvial,650
+2017,Uttar Pradesh,Varanasi,Kharif,Rice,707,1406,1.99,540,35,53,Loamy,1450
+2017,Uttar Pradesh,Lucknow,Kharif,Wheat,1670,5861,3.51,335,27,57,Red,576
+2017,Uttar Pradesh,Meerut,Kharif,Maize,1738,2641,1.52,1148,30,59,Sandy,684
+2017,Uttar Pradesh,Lucknow,Rabi,Sugarcane,1895,3979,2.1,605,23,47,Black,1116
+2017,Uttar Pradesh,Meerut,Kharif,Cotton,1195,3393,2.84,526,19,68,Black,498
+2017,Uttar Pradesh,Varanasi,Rabi,Bajra,916,1419,1.55,815,29,67,Black,1286
+2017,Uttar Pradesh,Lucknow,Rabi,Barley,1410,5104,3.62,1105,22,62,Red,1333
+2017,Punjab,Amritsar,Kharif,Rice,1709,5554,3.25,656,21,63,Black,662
+2017,Punjab,Ludhiana,Rabi,Wheat,1341,5323,3.97,1073,15,55,Black,304
+2017,Punjab,Patiala,Kharif,Maize,658,1967,2.99,1159,19,45,Black,790
+2017,Punjab,Patiala,Rabi,Sugarcane,511,2033,3.98,502,28,41,Black,1402
+2017,Punjab,Ludhiana,Rabi,Cotton,1187,3181,2.68,352,29,51,Alluvial,366
+2017,Punjab,Patiala,Kharif,Bajra,1316,2816,2.14,409,23,48,Alluvial,906
+2017,Punjab,Amritsar,Kharif,Barley,902,3373,3.74,404,29,46,Black,966
+2017,Haryana,Karnal,Rabi,Rice,1165,2539,2.18,1176,31,61,Sandy,1174
+2017,Haryana,Rohtak,Rabi,Wheat,553,995,1.8,750,23,59,Black,1172
+2017,Haryana,Rohtak,Kharif,Maize,1659,6486,3.91,315,15,61,Black,507
+2017,Haryana,Rohtak,Rabi,Sugarcane,1903,4262,2.24,362,15,66,Sandy,1029
+2017,Haryana,Rohtak,Kharif,Cotton,618,1050,1.7,591,27,53,Black,723
+2017,Haryana,Hisar,Rabi,Bajra,537,1895,3.53,875,22,74,Sandy,712
+2017,Haryana,Rohtak,Rabi,Barley,1212,4484,3.7,368,34,79,Black,508
+2017,Rajasthan,Jaipur,Rabi,Rice,1865,4270,2.29,890,33,78,Black,855
+2017,Rajasthan,Bikaner,Rabi,Wheat,1232,2353,1.91,433,19,71,Black,1082
+2017,Rajasthan,Kota,Rabi,Maize,1046,3148,3.01,1083,20,73,Loamy,992
+2017,Rajasthan,Jaipur,Kharif,Sugarcane,1943,4216,2.17,838,19,58,Black,698
+2017,Rajasthan,Jaipur,Kharif,Cotton,1887,3585,1.9,702,23,53,Black,893
+2017,Rajasthan,Bikaner,Kharif,Bajra,1796,3035,1.69,1094,31,66,Sandy,238
+2017,Rajasthan,Jaipur,Rabi,Barley,1790,5566,3.11,710,28,80,Alluvial,278
+2017,Maharashtra,Nagpur,Kharif,Rice,1671,4979,2.98,563,21,50,Alluvial,436
+2017,Maharashtra,Pune,Kharif,Wheat,1144,3500,3.06,313,24,76,Loamy,212
+2017,Maharashtra,Nashik,Kharif,Maize,674,1604,2.38,334,16,78,Black,483
+2017,Maharashtra,Pune,Kharif,Sugarcane,1341,2373,1.77,865,33,69,Sandy,1156
+2017,Maharashtra,Pune,Kharif,Cotton,1119,2114,1.89,348,34,79,Alluvial,1025
+2017,Maharashtra,Nashik,Rabi,Bajra,1662,4836,2.91,1102,19,55,Sandy,657
+2017,Maharashtra,Pune,Rabi,Barley,1151,1922,1.67,1186,29,71,Loamy,1469
+2017,Bihar,Muzaffarpur,Rabi,Rice,518,1326,2.56,920,24,41,Alluvial,910
+2017,Bihar,Muzaffarpur,Kharif,Wheat,1851,5367,2.9,679,18,51,Alluvial,250
+2017,Bihar,Gaya,Rabi,Maize,1708,6695,3.92,917,21,58,Loamy,1225
+2017,Bihar,Gaya,Rabi,Sugarcane,675,2335,3.46,476,20,67,Alluvial,1154
+2017,Bihar,Gaya,Kharif,Cotton,810,3061,3.78,1069,15,41,Alluvial,1189
+2017,Bihar,Patna,Kharif,Bajra,1186,2870,2.42,402,28,44,Sandy,747
+2017,Bihar,Gaya,Kharif,Barley,1224,2117,1.73,890,27,58,Alluvial,1421
+2017,Madhya Pradesh,Indore,Rabi,Rice,1362,2465,1.81,1103,21,46,Red,388
+2017,Madhya Pradesh,Bhopal,Kharif,Wheat,685,1767,2.58,967,34,57,Sandy,1140
+2017,Madhya Pradesh,Bhopal,Kharif,Maize,1805,3212,1.78,790,30,76,Sandy,1318
+2017,Madhya Pradesh,Jabalpur,Kharif,Sugarcane,1215,3389,2.79,1149,16,73,Alluvial,1154
+2017,Madhya Pradesh,Jabalpur,Rabi,Cotton,880,2015,2.29,312,17,60,Sandy,1332
+2017,Madhya Pradesh,Jabalpur,Kharif,Bajra,1379,2495,1.81,666,32,60,Sandy,612
+2017,Madhya Pradesh,Bhopal,Rabi,Barley,752,1316,1.75,650,20,57,Alluvial,1122
+2017,Gujarat,Ahmedabad,Kharif,Rice,1785,5712,3.2,888,24,42,Black,1380
+2017,Gujarat,Surat,Kharif,Wheat,1366,2158,1.58,988,21,61,Alluvial,827
+2017,Gujarat,Rajkot,Kharif,Maize,1518,4614,3.04,306,23,43,Red,1269
+2017,Gujarat,Ahmedabad,Rabi,Sugarcane,1746,4138,2.37,1195,20,74,Alluvial,272
+2017,Gujarat,Surat,Rabi,Cotton,1559,5705,3.66,426,15,78,Loamy,679
+2017,Gujarat,Ahmedabad,Rabi,Bajra,708,1416,2.0,439,30,49,Sandy,421
+2017,Gujarat,Rajkot,Kharif,Barley,1461,5361,3.67,1082,25,77,Alluvial,1357
+2017,Karnataka,Mysuru,Kharif,Rice,1627,3823,2.35,1001,29,80,Black,508
+2017,Karnataka,Hubli,Rabi,Wheat,1181,2869,2.43,791,32,49,Loamy,267
+2017,Karnataka,Mysuru,Rabi,Maize,1798,7102,3.95,816,22,78,Loamy,282
+2017,Karnataka,Bengaluru,Kharif,Sugarcane,1209,2200,1.82,800,28,80,Red,635
+2017,Karnataka,Mysuru,Rabi,Cotton,1792,4229,2.36,716,30,66,Loamy,1048
+2017,Karnataka,Bengaluru,Kharif,Bajra,1036,3325,3.21,697,29,58,Loamy,1386
+2017,Karnataka,Hubli,Kharif,Barley,525,1023,1.95,367,31,51,Red,1119
+2017,Tamil Nadu,Madurai,Rabi,Rice,1835,4330,2.36,740,20,54,Loamy,600
+2017,Tamil Nadu,Madurai,Kharif,Wheat,1660,5129,3.09,790,27,79,Alluvial,1312
+2017,Tamil Nadu,Coimbatore,Kharif,Maize,659,1845,2.8,1047,24,40,Alluvial,1303
+2017,Tamil Nadu,Madurai,Kharif,Sugarcane,1929,5015,2.6,582,33,63,Black,962
+2017,Tamil Nadu,Salem,Kharif,Cotton,900,3447,3.83,862,27,46,Black,647
+2017,Tamil Nadu,Madurai,Kharif,Bajra,1480,4351,2.94,586,27,76,Loamy,1445
+2017,Tamil Nadu,Coimbatore,Rabi,Barley,1510,4514,2.99,758,33,62,Loamy,814
+2018,Uttar Pradesh,Varanasi,Rabi,Rice,1933,6320,3.27,914,28,48,Red,1366
+2018,Uttar Pradesh,Meerut,Rabi,Wheat,1014,4035,3.98,1000,17,60,Sandy,1411
+2018,Uttar Pradesh,Kanpur,Kharif,Maize,1921,3918,2.04,469,31,60,Sandy,1036
+2018,Uttar Pradesh,Kanpur,Kharif,Sugarcane,1637,3175,1.94,686,28,51,Alluvial,855
+2018,Uttar Pradesh,Meerut,Rabi,Cotton,1845,5590,3.03,610,23,62,Sandy,826
+2018,Uttar Pradesh,Lucknow,Rabi,Bajra,1099,4110,3.74,1132,20,46,Alluvial,1092
+2018,Uttar Pradesh,Lucknow,Rabi,Barley,1751,5568,3.18,1062,30,55,Loamy,627
+2018,Punjab,Amritsar,Kharif,Rice,1474,5070,3.44,626,17,44,Loamy,604
+2018,Punjab,Patiala,Kharif,Wheat,1945,6515,3.35,346,18,68,Black,855
+2018,Punjab,Amritsar,Rabi,Maize,1695,2695,1.59,503,30,57,Sandy,992
+2018,Punjab,Ludhiana,Rabi,Sugarcane,1581,5106,3.23,302,31,41,Red,1490
+2018,Punjab,Ludhiana,Rabi,Cotton,606,981,1.62,599,20,63,Loamy,854
+2018,Punjab,Amritsar,Kharif,Bajra,558,982,1.76,671,25,50,Loamy,1264
+2018,Punjab,Ludhiana,Rabi,Barley,1885,5032,2.67,966,18,73,Loamy,646
+2018,Haryana,Rohtak,Kharif,Rice,527,1549,2.94,458,28,63,Alluvial,1380
+2018,Haryana,Hisar,Kharif,Wheat,776,2809,3.62,476,32,55,Loamy,1224
+2018,Haryana,Karnal,Kharif,Maize,733,1290,1.76,739,33,45,Alluvial,1157
+2018,Haryana,Hisar,Rabi,Sugarcane,505,1232,2.44,413,28,64,Loamy,823
+2018,Haryana,Karnal,Rabi,Cotton,519,1146,2.21,1102,16,46,Sandy,228
+2018,Haryana,Rohtak,Rabi,Bajra,1085,1866,1.72,441,22,55,Loamy,667
+2018,Haryana,Hisar,Rabi,Barley,1435,5539,3.86,802,25,64,Alluvial,1432
+2018,Rajasthan,Bikaner,Rabi,Rice,1884,5067,2.69,757,31,73,Sandy,296
+2018,Rajasthan,Kota,Rabi,Wheat,1642,6387,3.89,1034,26,74,Red,224
+2018,Rajasthan,Kota,Rabi,Maize,1766,5015,2.84,494,16,79,Loamy,1245
+2018,Rajasthan,Kota,Rabi,Sugarcane,1533,4123,2.69,1001,21,55,Loamy,1078
+2018,Rajasthan,Kota,Rabi,Cotton,1645,4375,2.66,488,32,44,Alluvial,236
+2018,Rajasthan,Kota,Rabi,Bajra,1050,1596,1.52,1144,35,80,Red,1388
+2018,Rajasthan,Bikaner,Rabi,Barley,1288,4585,3.56,578,18,54,Sandy,597
+2018,Maharashtra,Nashik,Rabi,Rice,642,2548,3.97,1148,28,62,Loamy,820
+2018,Maharashtra,Nagpur,Kharif,Wheat,1324,3521,2.66,453,29,66,Sandy,637
+2018,Maharashtra,Nagpur,Rabi,Maize,914,2403,2.63,391,34,50,Loamy,731
+2018,Maharashtra,Nashik,Rabi,Sugarcane,1762,6343,3.6,882,15,52,Black,924
+2018,Maharashtra,Pune,Kharif,Cotton,1092,3090,2.83,731,15,62,Alluvial,504
+2018,Maharashtra,Pune,Rabi,Bajra,1700,2958,1.74,880,19,51,Alluvial,1485
+2018,Maharashtra,Pune,Kharif,Barley,884,1405,1.59,812,15,65,Alluvial,691
+2018,Bihar,Gaya,Rabi,Rice,1841,3037,1.65,494,31,54,Red,1284
+2018,Bihar,Gaya,Kharif,Wheat,1774,5481,3.09,730,25,70,Loamy,1333
+2018,Bihar,Gaya,Rabi,Maize,1389,4583,3.3,1042,26,59,Sandy,1018
+2018,Bihar,Gaya,Kharif,Sugarcane,733,2118,2.89,1156,26,49,Red,1037
+2018,Bihar,Gaya,Rabi,Cotton,1634,6437,3.94,854,35,69,Sandy,745
+2018,Bihar,Patna,Kharif,Bajra,787,2542,3.23,742,27,79,Sandy,670
+2018,Bihar,Gaya,Rabi,Barley,915,2470,2.7,442,31,48,Alluvial,1210
+2018,Madhya Pradesh,Bhopal,Rabi,Rice,1515,5408,3.57,515,22,45,Sandy,1357
+2018,Madhya Pradesh,Indore,Kharif,Wheat,1296,2967,2.29,1192,31,57,Alluvial,1376
+2018,Madhya Pradesh,Indore,Kharif,Maize,1128,3079,2.73,487,31,56,Loamy,530
+2018,Madhya Pradesh,Bhopal,Rabi,Sugarcane,1287,3539,2.75,913,17,77,Loamy,1083
+2018,Madhya Pradesh,Jabalpur,Kharif,Cotton,1872,4062,2.17,502,26,77,Alluvial,950
+2018,Madhya Pradesh,Indore,Rabi,Bajra,1241,2568,2.07,832,15,71,Sandy,313
+2018,Madhya Pradesh,Bhopal,Kharif,Barley,893,1607,1.8,769,27,58,Red,1046
+2018,Gujarat,Ahmedabad,Rabi,Rice,1222,3262,2.67,1187,15,69,Loamy,1276
+2018,Gujarat,Ahmedabad,Kharif,Wheat,949,3558,3.75,980,20,53,Loamy,691
+2018,Gujarat,Ahmedabad,Rabi,Maize,1004,1877,1.87,775,17,77,Red,1214
+2018,Gujarat,Ahmedabad,Kharif,Sugarcane,1205,2807,2.33,701,22,55,Loamy,924
+2018,Gujarat,Rajkot,Rabi,Cotton,1732,6495,3.75,1128,17,61,Alluvial,599
+2018,Gujarat,Surat,Kharif,Bajra,1521,4213,2.77,927,33,55,Red,1461
+2018,Gujarat,Rajkot,Kharif,Barley,1237,4712,3.81,954,27,41,Red,1256
+2018,Karnataka,Bengaluru,Kharif,Rice,1958,5423,2.77,586,32,59,Loamy,951
+2018,Karnataka,Hubli,Kharif,Wheat,512,1121,2.19,936,18,42,Red,320
+2018,Karnataka,Bengaluru,Kharif,Maize,1719,2853,1.66,519,26,77,Sandy,280
+2018,Karnataka,Mysuru,Kharif,Sugarcane,1081,3805,3.52,748,18,54,Loamy,831
+2018,Karnataka,Hubli,Rabi,Cotton,824,2183,2.65,802,21,41,Loamy,1255
+2018,Karnataka,Mysuru,Rabi,Bajra,1156,2601,2.25,652,21,71,Alluvial,429
+2018,Karnataka,Hubli,Kharif,Barley,1236,2385,1.93,995,26,41,Alluvial,1489
+2018,Tamil Nadu,Madurai,Rabi,Rice,1691,5563,3.29,759,31,71,Black,1265
+2018,Tamil Nadu,Madurai,Kharif,Wheat,1553,2748,1.77,984,32,40,Loamy,1012
+2018,Tamil Nadu,Coimbatore,Kharif,Maize,891,3154,3.54,843,31,80,Loamy,268
+2018,Tamil Nadu,Salem,Rabi,Sugarcane,799,2197,2.75,430,18,46,Loamy,1317
+2018,Tamil Nadu,Madurai,Kharif,Cotton,1695,4051,2.39,805,31,54,Loamy,383
+2018,Tamil Nadu,Coimbatore,Rabi,Bajra,1459,5179,3.55,600,31,60,Red,1497
+2018,Tamil Nadu,Madurai,Kharif,Barley,536,1929,3.6,880,21,55,Black,306
+2019,Uttar Pradesh,Meerut,Kharif,Rice,1377,3001,2.18,979,28,72,Loamy,642
+2019,Uttar Pradesh,Varanasi,Kharif,Wheat,1781,6945,3.9,903,23,70,Loamy,393
+2019,Uttar Pradesh,Varanasi,Kharif,Maize,1000,2110,2.11,774,27,68,Loamy,834
+2019,Uttar Pradesh,Meerut,Rabi,Sugarcane,1122,4420,3.94,602,33,45,Black,708
+2019,Uttar Pradesh,Kanpur,Rabi,Cotton,730,1365,1.87,1135,15,69,Alluvial,356
+2019,Uttar Pradesh,Lucknow,Kharif,Bajra,1981,4912,2.48,651,30,44,Sandy,1250
+2019,Uttar Pradesh,Meerut,Rabi,Barley,1903,6945,3.65,441,24,65,Sandy,1226
+2019,Punjab,Amritsar,Kharif,Rice,775,1883,2.43,821,16,55,Alluvial,1050
+2019,Punjab,Patiala,Kharif,Wheat,1783,6276,3.52,339,21,51,Alluvial,1044
+2019,Punjab,Patiala,Kharif,Maize,1977,3499,1.77,345,18,68,Sandy,656
+2019,Punjab,Ludhiana,Kharif,Sugarcane,1823,3773,2.07,589,24,64,Loamy,476
+2019,Punjab,Amritsar,Rabi,Cotton,564,1866,3.31,1022,23,61,Alluvial,798
+2019,Punjab,Ludhiana,Rabi,Bajra,823,2386,2.9,668,19,79,Loamy,1154
+2019,Punjab,Amritsar,Kharif,Barley,1533,4782,3.12,1037,18,54,Red,510
+2019,Haryana,Rohtak,Rabi,Rice,511,1624,3.18,715,22,58,Red,366
+2019,Haryana,Rohtak,Kharif,Wheat,1620,2980,1.84,652,28,52,Sandy,299
+2019,Haryana,Rohtak,Rabi,Maize,1881,6226,3.31,756,35,65,Loamy,1424
+2019,Haryana,Hisar,Rabi,Sugarcane,1245,4033,3.24,686,27,49,Sandy,1303
+2019,Haryana,Rohtak,Kharif,Cotton,1475,5310,3.6,691,21,73,Loamy,833
+2019,Haryana,Hisar,Kharif,Bajra,1652,2494,1.51,1145,23,42,Sandy,315
+2019,Haryana,Rohtak,Kharif,Barley,943,3064,3.25,933,22,66,Red,503
+2019,Rajasthan,Bikaner,Kharif,Rice,1336,4729,3.54,1002,34,79,Loamy,551
+2019,Rajasthan,Jaipur,Rabi,Wheat,1907,6750,3.54,502,22,49,Red,1405
+2019,Rajasthan,Bikaner,Kharif,Maize,1502,3124,2.08,304,15,75,Loamy,860
+2019,Rajasthan,Jaipur,Kharif,Sugarcane,1918,4334,2.26,377,26,43,Alluvial,1024
+2019,Rajasthan,Bikaner,Rabi,Cotton,1459,5062,3.47,358,28,59,Loamy,247
+2019,Rajasthan,Bikaner,Kharif,Bajra,1202,2307,1.92,640,22,40,Black,1327
+2019,Rajasthan,Kota,Kharif,Barley,1958,4973,2.54,555,35,59,Black,234
+2019,Maharashtra,Nashik,Kharif,Rice,748,2498,3.34,349,17,46,Black,234
+2019,Maharashtra,Nagpur,Rabi,Wheat,1894,7140,3.77,837,25,53,Red,920
+2019,Maharashtra,Pune,Kharif,Maize,1268,2155,1.7,896,32,50,Alluvial,872
+2019,Maharashtra,Nashik,Rabi,Sugarcane,1658,4393,2.65,1175,22,63,Sandy,467
+2019,Maharashtra,Nagpur,Rabi,Cotton,808,3183,3.94,638,29,63,Sandy,946
+2019,Maharashtra,Nagpur,Kharif,Bajra,1339,3976,2.97,670,20,67,Sandy,1500
+2019,Maharashtra,Pune,Rabi,Barley,941,1759,1.87,576,18,68,Sandy,1445
+2019,Bihar,Patna,Rabi,Rice,700,1995,2.85,795,26,44,Loamy,1159
+2019,Bihar,Gaya,Kharif,Wheat,546,955,1.75,714,16,47,Red,1491
+2019,Bihar,Patna,Kharif,Maize,1134,3163,2.79,415,30,53,Loamy,903
+2019,Bihar,Gaya,Kharif,Sugarcane,1265,2884,2.28,317,32,69,Red,542
+2019,Bihar,Patna,Rabi,Cotton,1799,3076,1.71,585,16,78,Red,1357
+2019,Bihar,Gaya,Rabi,Bajra,1521,4076,2.68,324,19,68,Black,413
+2019,Bihar,Muzaffarpur,Rabi,Barley,868,1840,2.12,680,20,63,Sandy,1447
+2019,Madhya Pradesh,Jabalpur,Rabi,Rice,1501,3557,2.37,931,29,53,Red,1310
+2019,Madhya Pradesh,Bhopal,Kharif,Wheat,1434,5363,3.74,663,26,44,Alluvial,748
+2019,Madhya Pradesh,Bhopal,Rabi,Maize,1558,3225,2.07,462,28,52,Loamy,300
+2019,Madhya Pradesh,Jabalpur,Kharif,Sugarcane,691,1395,2.02,530,23,55,Alluvial,676
+2019,Madhya Pradesh,Indore,Kharif,Cotton,1020,2458,2.41,693,16,72,Black,322
+2019,Madhya Pradesh,Jabalpur,Rabi,Bajra,911,2067,2.27,1020,34,47,Alluvial,888
+2019,Madhya Pradesh,Bhopal,Kharif,Barley,1719,4159,2.42,1049,27,71,Alluvial,1001
+2019,Gujarat,Rajkot,Rabi,Rice,1943,3847,1.98,881,22,45,Loamy,423
+2019,Gujarat,Rajkot,Kharif,Wheat,726,2766,3.81,548,23,55,Loamy,1482
+2019,Gujarat,Ahmedabad,Kharif,Maize,1328,4302,3.24,824,26,67,Black,802
+2019,Gujarat,Surat,Kharif,Sugarcane,757,2263,2.99,475,23,57,Sandy,1078
+2019,Gujarat,Surat,Kharif,Cotton,821,2315,2.82,663,34,71,Red,1440
+2019,Gujarat,Ahmedabad,Kharif,Bajra,642,2484,3.87,689,21,53,Loamy,1083
+2019,Gujarat,Rajkot,Kharif,Barley,1104,1932,1.75,1082,16,64,Loamy,715
+2019,Karnataka,Bengaluru,Kharif,Rice,1293,3258,2.52,1152,31,53,Alluvial,927
+2019,Karnataka,Mysuru,Rabi,Wheat,1706,5868,3.44,1028,28,51,Alluvial,1345
+2019,Karnataka,Mysuru,Kharif,Maize,1292,4767,3.69,596,27,40,Alluvial,1384
+2019,Karnataka,Hubli,Kharif,Sugarcane,1538,4629,3.01,844,27,66,Alluvial,1243
+2019,Karnataka,Mysuru,Rabi,Cotton,555,1748,3.15,753,31,46,Loamy,897
+2019,Karnataka,Hubli,Rabi,Bajra,1452,5488,3.78,735,26,52,Alluvial,1165
+2019,Karnataka,Hubli,Kharif,Barley,1729,5757,3.33,857,21,65,Alluvial,429
+2019,Tamil Nadu,Madurai,Rabi,Rice,1983,4917,2.48,1059,16,73,Sandy,538
+2019,Tamil Nadu,Madurai,Rabi,Wheat,1644,6378,3.88,504,17,76,Red,384
+2019,Tamil Nadu,Madurai,Rabi,Maize,532,1957,3.68,916,29,69,Black,1243
+2019,Tamil Nadu,Salem,Kharif,Sugarcane,871,1942,2.23,386,32,44,Alluvial,1404
+2019,Tamil Nadu,Coimbatore,Rabi,Cotton,1335,4165,3.12,1154,16,51,Sandy,1420
+2019,Tamil Nadu,Salem,Rabi,Bajra,844,2624,3.11,435,34,47,Loamy,815
+2019,Tamil Nadu,Madurai,Kharif,Barley,640,2054,3.21,782,33,77,Loamy,1353
+2020,Uttar Pradesh,Meerut,Kharif,Rice,1159,1935,1.67,1017,35,75,Black,1207
+2020,Uttar Pradesh,Kanpur,Kharif,Wheat,567,1706,3.01,795,35,60,Sandy,1042
+2020,Uttar Pradesh,Meerut,Rabi,Maize,1504,6000,3.99,666,16,58,Loamy,1175
+2020,Uttar Pradesh,Lucknow,Rabi,Sugarcane,883,3205,3.63,903,29,58,Alluvial,512
+2020,Uttar Pradesh,Lucknow,Kharif,Cotton,931,1778,1.91,468,15,67,Black,909
+2020,Uttar Pradesh,Lucknow,Kharif,Bajra,1194,1898,1.59,647,26,73,Red,1186
+2020,Uttar Pradesh,Kanpur,Kharif,Barley,1595,4545,2.85,326,22,57,Black,513
+2020,Punjab,Amritsar,Rabi,Rice,864,1823,2.11,1072,28,71,Black,847
+2020,Punjab,Ludhiana,Kharif,Wheat,1488,5193,3.49,974,16,79,Black,220
+2020,Punjab,Amritsar,Rabi,Maize,1452,5372,3.7,333,19,66,Alluvial,586
+2020,Punjab,Patiala,Kharif,Sugarcane,1464,3674,2.51,1110,23,68,Black,1041
+2020,Punjab,Patiala,Kharif,Cotton,830,2913,3.51,552,24,61,Loamy,430
+2020,Punjab,Amritsar,Kharif,Bajra,586,2308,3.94,329,24,56,Loamy,1497
+2020,Punjab,Patiala,Kharif,Barley,836,2875,3.44,526,21,43,Sandy,1060
+2020,Haryana,Karnal,Kharif,Rice,512,1361,2.66,641,27,44,Sandy,1355
+2020,Haryana,Rohtak,Rabi,Wheat,1743,5560,3.19,640,34,80,Loamy,1063
+2020,Haryana,Hisar,Rabi,Maize,1833,6635,3.62,493,15,41,Black,580
+2020,Haryana,Hisar,Rabi,Sugarcane,1575,3748,2.38,816,22,75,Red,1333
+2020,Haryana,Karnal,Kharif,Cotton,1688,2903,1.72,894,29,73,Sandy,1415
+2020,Haryana,Karnal,Kharif,Bajra,690,1642,2.38,479,35,73,Loamy,849
+2020,Haryana,Hisar,Rabi,Barley,1478,3576,2.42,1070,15,72,Sandy,521
+2020,Rajasthan,Kota,Kharif,Rice,1064,3160,2.97,806,16,69,Sandy,889
+2020,Rajasthan,Bikaner,Rabi,Wheat,1682,5786,3.44,1118,29,54,Black,461
+2020,Rajasthan,Bikaner,Kharif,Maize,1795,5223,2.91,1087,16,60,Red,633
+2020,Rajasthan,Kota,Kharif,Sugarcane,1603,3302,2.06,375,22,46,Loamy,1195
+2020,Rajasthan,Jaipur,Rabi,Cotton,1469,3863,2.63,348,35,80,Sandy,770
+2020,Rajasthan,Kota,Rabi,Bajra,1537,3642,2.37,1122,19,61,Loamy,1113
+2020,Rajasthan,Jaipur,Rabi,Barley,1495,3842,2.57,373,24,55,Red,787
+2020,Maharashtra,Nashik,Kharif,Rice,1103,3397,3.08,823,28,59,Alluvial,589
+2020,Maharashtra,Nagpur,Rabi,Wheat,789,2193,2.78,518,24,54,Sandy,441
+2020,Maharashtra,Nashik,Rabi,Maize,1431,3205,2.24,394,31,80,Loamy,676
+2020,Maharashtra,Nagpur,Rabi,Sugarcane,794,2135,2.69,447,24,55,Sandy,352
+2020,Maharashtra,Pune,Rabi,Cotton,1106,3671,3.32,1027,21,59,Black,271
+2020,Maharashtra,Nagpur,Rabi,Bajra,522,1873,3.59,1062,22,62,Red,389
+2020,Maharashtra,Pune,Rabi,Barley,579,2194,3.79,1197,18,40,Black,1198
+2020,Bihar,Patna,Kharif,Rice,983,2909,2.96,714,28,58,Red,1059
+2020,Bihar,Patna,Kharif,Wheat,918,1487,1.62,421,27,52,Loamy,1113
+2020,Bihar,Gaya,Kharif,Maize,1471,5339,3.63,1062,19,70,Alluvial,890
+2020,Bihar,Muzaffarpur,Kharif,Sugarcane,1661,5913,3.56,570,33,68,Alluvial,1435
+2020,Bihar,Muzaffarpur,Rabi,Cotton,1576,4743,3.01,413,33,71,Sandy,817
+2020,Bihar,Muzaffarpur,Rabi,Bajra,1145,4385,3.83,967,21,41,Black,1358
+2020,Bihar,Patna,Rabi,Barley,1369,5256,3.84,562,24,76,Loamy,1418
+2020,Madhya Pradesh,Bhopal,Kharif,Rice,1456,2693,1.85,500,15,60,Loamy,1321
+2020,Madhya Pradesh,Bhopal,Kharif,Wheat,1358,4386,3.23,1067,26,50,Sandy,535
+2020,Madhya Pradesh,Jabalpur,Rabi,Maize,1116,2868,2.57,751,32,57,Sandy,314
+2020,Madhya Pradesh,Jabalpur,Kharif,Sugarcane,1303,2215,1.7,340,17,47,Sandy,454
+2020,Madhya Pradesh,Indore,Kharif,Cotton,1245,2328,1.87,783,35,57,Loamy,467
+2020,Madhya Pradesh,Indore,Kharif,Bajra,599,964,1.61,843,31,53,Alluvial,1321
+2020,Madhya Pradesh,Indore,Kharif,Barley,1817,3107,1.71,811,33,50,Red,1113
+2020,Gujarat,Rajkot,Kharif,Rice,621,1732,2.79,545,34,52,Loamy,897
+2020,Gujarat,Ahmedabad,Rabi,Wheat,830,1261,1.52,792,20,61,Red,419
+2020,Gujarat,Ahmedabad,Kharif,Maize,1575,4032,2.56,654,19,77,Red,1434
+2020,Gujarat,Surat,Kharif,Sugarcane,1826,5094,2.79,439,28,53,Loamy,1401
+2020,Gujarat,Rajkot,Kharif,Cotton,1970,3762,1.91,803,24,67,Sandy,848
+2020,Gujarat,Ahmedabad,Kharif,Bajra,1940,7236,3.73,1063,16,42,Red,245
+2020,Gujarat,Rajkot,Rabi,Barley,1706,6141,3.6,1199,22,52,Loamy,295
+2020,Karnataka,Hubli,Rabi,Rice,1570,2810,1.79,1110,18,50,Alluvial,952
+2020,Karnataka,Hubli,Rabi,Wheat,1034,1613,1.56,1020,26,63,Red,284
+2020,Karnataka,Bengaluru,Rabi,Maize,1540,2510,1.63,432,19,66,Black,1144
+2020,Karnataka,Hubli,Kharif,Sugarcane,1984,5317,2.68,639,34,44,Red,335
+2020,Karnataka,Mysuru,Rabi,Cotton,974,2775,2.85,945,30,57,Loamy,1219
+2020,Karnataka,Hubli,Rabi,Bajra,866,3360,3.88,1090,15,49,Sandy,857
+2020,Karnataka,Hubli,Rabi,Barley,1358,3653,2.69,632,34,60,Black,1098
+2020,Tamil Nadu,Salem,Kharif,Rice,1928,6208,3.22,1003,33,40,Black,614
+2020,Tamil Nadu,Madurai,Rabi,Wheat,1434,2796,1.95,1176,27,73,Alluvial,1467
+2020,Tamil Nadu,Coimbatore,Kharif,Maize,1304,2516,1.93,834,30,60,Sandy,694
+2020,Tamil Nadu,Madurai,Kharif,Sugarcane,1630,4580,2.81,591,21,77,Loamy,1084
+2020,Tamil Nadu,Coimbatore,Kharif,Cotton,1149,3378,2.94,940,30,62,Alluvial,1204
+2020,Tamil Nadu,Madurai,Rabi,Bajra,518,1393,2.69,635,20,75,Black,1150
+2020,Tamil Nadu,Salem,Rabi,Barley,1406,4724,3.36,830,18,60,Sandy,721
+2021,Uttar Pradesh,Meerut,Kharif,Rice,918,1477,1.61,303,20,54,Alluvial,1051
+2021,Uttar Pradesh,Lucknow,Rabi,Wheat,919,1975,2.15,1161,26,60,Black,1240
+2021,Uttar Pradesh,Lucknow,Kharif,Maize,1503,3772,2.51,659,28,47,Sandy,498
+2021,Uttar Pradesh,Meerut,Rabi,Sugarcane,648,2442,3.77,709,17,51,Red,458
+2021,Uttar Pradesh,Meerut,Kharif,Cotton,753,2838,3.77,484,27,68,Black,1099
+2021,Uttar Pradesh,Varanasi,Kharif,Bajra,854,3048,3.57,741,25,40,Sandy,1019
+2021,Uttar Pradesh,Kanpur,Rabi,Barley,1527,5970,3.91,1183,26,55,Black,1290
+2021,Punjab,Patiala,Kharif,Rice,723,1330,1.84,735,24,66,Sandy,533
+2021,Punjab,Patiala,Kharif,Wheat,587,1790,3.05,872,26,80,Red,491
+2021,Punjab,Amritsar,Rabi,Maize,557,852,1.53,1044,24,48,Black,751
+2021,Punjab,Patiala,Rabi,Sugarcane,1274,3809,2.99,1018,22,41,Black,1213
+2021,Punjab,Ludhiana,Kharif,Cotton,948,3630,3.83,732,21,42,Loamy,295
+2021,Punjab,Amritsar,Kharif,Bajra,951,3090,3.25,993,24,43,Red,667
+2021,Punjab,Amritsar,Kharif,Barley,1698,3752,2.21,477,35,73,Black,980
+2021,Haryana,Hisar,Rabi,Rice,757,2180,2.88,1042,28,54,Alluvial,618
+2021,Haryana,Rohtak,Kharif,Wheat,1053,2716,2.58,808,27,80,Alluvial,919
+2021,Haryana,Rohtak,Rabi,Maize,1399,2252,1.61,643,27,70,Red,1177
+2021,Haryana,Rohtak,Kharif,Sugarcane,774,1973,2.55,743,15,69,Sandy,286
+2021,Haryana,Karnal,Kharif,Cotton,1215,2575,2.12,472,27,66,Sandy,341
+2021,Haryana,Hisar,Kharif,Bajra,764,2307,3.02,1001,33,60,Sandy,1002
+2021,Haryana,Rohtak,Kharif,Barley,1135,4324,3.81,523,24,79,Loamy,734
+2021,Rajasthan,Kota,Kharif,Rice,1702,6535,3.84,917,21,68,Sandy,702
+2021,Rajasthan,Jaipur,Rabi,Wheat,1936,6408,3.31,863,17,68,Black,1104
+2021,Rajasthan,Kota,Rabi,Maize,858,2488,2.9,778,21,46,Red,1413
+2021,Rajasthan,Jaipur,Rabi,Sugarcane,760,1428,1.88,560,30,57,Sandy,1362
+2021,Rajasthan,Kota,Rabi,Cotton,1805,6082,3.37,1200,28,67,Black,818
+2021,Rajasthan,Jaipur,Rabi,Bajra,1256,3479,2.77,973,32,71,Sandy,1230
+2021,Rajasthan,Jaipur,Rabi,Barley,743,1716,2.31,986,31,41,Black,484
+2021,Maharashtra,Pune,Kharif,Rice,1439,4230,2.94,491,22,73,Loamy,428
+2021,Maharashtra,Nashik,Rabi,Wheat,1514,4118,2.72,450,24,61,Loamy,423
+2021,Maharashtra,Pune,Rabi,Maize,832,2820,3.39,630,19,53,Loamy,1359
+2021,Maharashtra,Nagpur,Kharif,Sugarcane,1771,3701,2.09,980,20,63,Sandy,357
+2021,Maharashtra,Pune,Kharif,Cotton,759,2406,3.17,965,21,57,Red,972
+2021,Maharashtra,Nagpur,Kharif,Bajra,1908,3033,1.59,1002,25,76,Black,939
+2021,Maharashtra,Pune,Rabi,Barley,1777,3873,2.18,496,18,69,Red,1055
+2021,Bihar,Patna,Rabi,Rice,1985,6868,3.46,703,25,64,Red,899
+2021,Bihar,Patna,Kharif,Wheat,980,3675,3.75,615,15,78,Sandy,1031
+2021,Bihar,Muzaffarpur,Rabi,Maize,1243,3331,2.68,322,30,64,Loamy,319
+2021,Bihar,Gaya,Rabi,Sugarcane,1797,5624,3.13,1078,23,80,Red,1430
+2021,Bihar,Patna,Rabi,Cotton,1728,6428,3.72,755,25,66,Alluvial,1055
+2021,Bihar,Patna,Rabi,Bajra,1410,2241,1.59,1112,34,73,Loamy,696
+2021,Bihar,Gaya,Kharif,Barley,1336,5250,3.93,838,24,61,Red,977
+2021,Madhya Pradesh,Jabalpur,Kharif,Rice,559,944,1.69,989,20,56,Sandy,951
+2021,Madhya Pradesh,Jabalpur,Rabi,Wheat,1960,6840,3.49,493,21,43,Loamy,246
+2021,Madhya Pradesh,Jabalpur,Rabi,Maize,1981,7527,3.8,1034,31,66,Loamy,1088
+2021,Madhya Pradesh,Jabalpur,Rabi,Sugarcane,522,1320,2.53,568,19,45,Alluvial,429
+2021,Madhya Pradesh,Bhopal,Kharif,Cotton,1484,5876,3.96,999,22,72,Sandy,930
+2021,Madhya Pradesh,Jabalpur,Rabi,Bajra,1682,4541,2.7,907,15,63,Loamy,1353
+2021,Madhya Pradesh,Bhopal,Rabi,Barley,1520,3040,2.0,435,35,73,Red,662
+2021,Gujarat,Ahmedabad,Kharif,Rice,804,1390,1.73,420,22,46,Sandy,672
+2021,Gujarat,Surat,Kharif,Wheat,1962,5670,2.89,535,32,64,Black,771
+2021,Gujarat,Surat,Kharif,Maize,1297,4552,3.51,977,22,75,Loamy,436
+2021,Gujarat,Ahmedabad,Rabi,Sugarcane,769,1661,2.16,637,17,43,Red,461
+2021,Gujarat,Surat,Rabi,Cotton,1922,5054,2.63,856,33,69,Black,1267
+2021,Gujarat,Ahmedabad,Kharif,Bajra,1872,6102,3.26,643,33,66,Red,1141
+2021,Gujarat,Surat,Kharif,Barley,1515,5696,3.76,661,27,67,Black,995
+2021,Karnataka,Mysuru,Kharif,Rice,966,1458,1.51,1089,23,48,Loamy,1312
+2021,Karnataka,Bengaluru,Rabi,Wheat,1301,4371,3.36,1160,26,70,Loamy,414
+2021,Karnataka,Mysuru,Kharif,Maize,1815,5445,3.0,947,20,68,Black,472
+2021,Karnataka,Hubli,Kharif,Sugarcane,1086,2725,2.51,874,24,67,Sandy,404
+2021,Karnataka,Hubli,Rabi,Cotton,518,1797,3.47,344,21,49,Red,1214
+2021,Karnataka,Mysuru,Kharif,Bajra,1762,4863,2.76,973,30,44,Loamy,247
+2021,Karnataka,Bengaluru,Kharif,Barley,606,1466,2.42,933,28,44,Sandy,904
+2021,Tamil Nadu,Salem,Kharif,Rice,1540,3033,1.97,638,18,49,Loamy,1437
+2021,Tamil Nadu,Coimbatore,Kharif,Wheat,1881,3705,1.97,959,19,40,Alluvial,659
+2021,Tamil Nadu,Madurai,Kharif,Maize,621,2421,3.9,416,21,60,Loamy,467
+2021,Tamil Nadu,Coimbatore,Rabi,Sugarcane,1415,3693,2.61,459,23,64,Sandy,1193
+2021,Tamil Nadu,Coimbatore,Rabi,Cotton,730,2788,3.82,324,23,54,Sandy,222
+2021,Tamil Nadu,Madurai,Rabi,Bajra,1964,7541,3.84,901,26,70,Black,682
+2021,Tamil Nadu,Salem,Rabi,Barley,1652,4476,2.71,483,28,69,Alluvial,1493
+2022,Uttar Pradesh,Varanasi,Rabi,Rice,522,1414,2.71,974,20,63,Black,729
+2022,Uttar Pradesh,Varanasi,Rabi,Wheat,1159,3453,2.98,429,15,78,Black,1228
+2022,Uttar Pradesh,Meerut,Kharif,Maize,1038,3985,3.84,379,23,52,Red,535
+2022,Uttar Pradesh,Meerut,Kharif,Sugarcane,1020,2590,2.54,317,20,45,Red,1428
+2022,Uttar Pradesh,Lucknow,Kharif,Cotton,769,1153,1.5,878,24,42,Alluvial,228
+2022,Uttar Pradesh,Lucknow,Rabi,Bajra,924,2938,3.18,1145,34,62,Red,238
+2022,Uttar Pradesh,Meerut,Kharif,Barley,703,1968,2.8,919,33,70,Loamy,1452
+2022,Punjab,Ludhiana,Rabi,Rice,1231,4037,3.28,1118,24,59,Alluvial,387
+2022,Punjab,Amritsar,Kharif,Wheat,607,1845,3.04,396,24,48,Red,374
+2022,Punjab,Ludhiana,Kharif,Maize,1909,3436,1.8,1155,28,73,Sandy,1472
+2022,Punjab,Patiala,Rabi,Sugarcane,1779,5657,3.18,384,35,52,Sandy,1073
+2022,Punjab,Amritsar,Rabi,Cotton,1650,6105,3.7,343,26,70,Alluvial,631
+2022,Punjab,Amritsar,Rabi,Bajra,1178,2108,1.79,472,21,43,Black,554
+2022,Punjab,Ludhiana,Rabi,Barley,965,2393,2.48,671,31,54,Loamy,995
+2022,Haryana,Karnal,Rabi,Rice,974,3798,3.9,562,28,65,Red,1257
+2022,Haryana,Rohtak,Rabi,Wheat,1033,2840,2.75,501,19,58,Loamy,913
+2022,Haryana,Karnal,Rabi,Maize,668,1643,2.46,637,20,50,Sandy,287
+2022,Haryana,Rohtak,Kharif,Sugarcane,1409,3423,2.43,774,23,65,Loamy,276
+2022,Haryana,Karnal,Kharif,Cotton,1706,3821,2.24,973,30,54,Black,1328
+2022,Haryana,Karnal,Rabi,Bajra,1617,2474,1.53,727,27,75,Alluvial,1339
+2022,Haryana,Rohtak,Rabi,Barley,804,2540,3.16,397,34,76,Loamy,1221
+2022,Rajasthan,Jaipur,Rabi,Rice,1914,3560,1.86,505,29,75,Red,969
+2022,Rajasthan,Kota,Kharif,Wheat,1631,3800,2.33,629,29,46,Red,1193
+2022,Rajasthan,Bikaner,Rabi,Maize,1260,2192,1.74,935,21,42,Sandy,1148
+2022,Rajasthan,Kota,Kharif,Sugarcane,1637,5549,3.39,637,32,64,Sandy,556
+2022,Rajasthan,Kota,Kharif,Cotton,1861,7015,3.77,1123,15,49,Alluvial,367
+2022,Rajasthan,Jaipur,Rabi,Bajra,501,1407,2.81,962,29,65,Alluvial,947
+2022,Rajasthan,Bikaner,Kharif,Barley,550,1320,2.4,401,17,55,Black,859
+2022,Maharashtra,Nagpur,Kharif,Rice,1416,4871,3.44,861,28,73,Black,388
+2022,Maharashtra,Nashik,Kharif,Wheat,1278,4677,3.66,302,16,79,Alluvial,287
+2022,Maharashtra,Nashik,Rabi,Maize,1366,4152,3.04,748,24,44,Red,707
+2022,Maharashtra,Nagpur,Rabi,Sugarcane,1929,3414,1.77,799,23,73,Sandy,448
+2022,Maharashtra,Nagpur,Kharif,Cotton,1271,4740,3.73,454,35,71,Black,526
+2022,Maharashtra,Nagpur,Rabi,Bajra,1000,1670,1.67,931,31,74,Black,349
+2022,Maharashtra,Nagpur,Rabi,Barley,1568,6083,3.88,316,28,75,Sandy,898
+2022,Bihar,Muzaffarpur,Rabi,Rice,1161,2960,2.55,600,28,45,Alluvial,309
+2022,Bihar,Muzaffarpur,Rabi,Wheat,1265,2618,2.07,989,17,73,Sandy,704
+2022,Bihar,Muzaffarpur,Rabi,Maize,777,2214,2.85,514,19,41,Alluvial,1032
+2022,Bihar,Patna,Kharif,Sugarcane,532,2112,3.97,1163,31,73,Red,917
+2022,Bihar,Muzaffarpur,Kharif,Cotton,766,3018,3.94,410,35,72,Red,888
+2022,Bihar,Patna,Rabi,Bajra,1586,5217,3.29,839,24,48,Sandy,223
+2022,Bihar,Gaya,Rabi,Barley,597,1659,2.78,418,28,40,Sandy,510
+2022,Madhya Pradesh,Jabalpur,Kharif,Rice,1964,5401,2.75,616,25,64,Sandy,1304
+2022,Madhya Pradesh,Indore,Rabi,Wheat,1632,4585,2.81,864,15,51,Black,306
+2022,Madhya Pradesh,Bhopal,Kharif,Maize,590,2354,3.99,1137,31,68,Alluvial,349
+2022,Madhya Pradesh,Indore,Kharif,Sugarcane,1335,2937,2.2,924,23,42,Alluvial,1374
+2022,Madhya Pradesh,Bhopal,Kharif,Cotton,981,1510,1.54,1139,25,61,Alluvial,328
+2022,Madhya Pradesh,Jabalpur,Rabi,Bajra,1847,5245,2.84,992,23,47,Alluvial,216
+2022,Madhya Pradesh,Jabalpur,Kharif,Barley,1594,4287,2.69,635,28,56,Red,766
+2022,Gujarat,Rajkot,Rabi,Rice,785,2449,3.12,576,28,63,Red,445
+2022,Gujarat,Surat,Kharif,Wheat,1808,2820,1.56,902,19,80,Sandy,462
+2022,Gujarat,Ahmedabad,Rabi,Maize,990,2455,2.48,693,17,58,Sandy,224
+2022,Gujarat,Rajkot,Kharif,Sugarcane,1262,2423,1.92,414,28,52,Alluvial,825
+2022,Gujarat,Surat,Rabi,Cotton,1277,3052,2.39,592,19,73,Loamy,247
+2022,Gujarat,Rajkot,Rabi,Bajra,951,3537,3.72,1024,30,59,Sandy,836
+2022,Gujarat,Surat,Kharif,Barley,688,1403,2.04,809,35,70,Alluvial,1325
+2022,Karnataka,Bengaluru,Kharif,Rice,1957,4305,2.2,511,15,40,Loamy,905
+2022,Karnataka,Mysuru,Kharif,Wheat,638,2258,3.54,1123,34,52,Alluvial,1393
+2022,Karnataka,Mysuru,Kharif,Maize,788,1686,2.14,869,23,75,Red,557
+2022,Karnataka,Hubli,Kharif,Sugarcane,1859,6878,3.7,453,30,72,Red,1304
+2022,Karnataka,Hubli,Kharif,Cotton,1855,4860,2.62,863,27,45,Sandy,695
+2022,Karnataka,Mysuru,Rabi,Bajra,767,2883,3.76,433,33,46,Loamy,1345
+2022,Karnataka,Hubli,Rabi,Barley,1716,4616,2.69,826,17,63,Sandy,1151
+2022,Tamil Nadu,Salem,Rabi,Rice,1252,2967,2.37,965,31,43,Alluvial,1159
+2022,Tamil Nadu,Coimbatore,Rabi,Wheat,1981,7686,3.88,497,26,65,Sandy,466
+2022,Tamil Nadu,Madurai,Kharif,Maize,1253,1979,1.58,726,16,54,Black,568
+2022,Tamil Nadu,Coimbatore,Kharif,Sugarcane,1453,3153,2.17,647,34,66,Black,342
+2022,Tamil Nadu,Coimbatore,Kharif,Cotton,648,1270,1.96,525,34,67,Red,371
+2022,Tamil Nadu,Madurai,Kharif,Bajra,594,1372,2.31,783,31,53,Black,881
+2022,Tamil Nadu,Madurai,Kharif,Barley,1682,2708,1.61,755,19,80,Loamy,322
+2023,Uttar Pradesh,Meerut,Kharif,Rice,1031,2371,2.3,1140,32,63,Red,1463
+2023,Uttar Pradesh,Kanpur,Kharif,Wheat,527,1928,3.66,843,25,59,Alluvial,487
+2023,Uttar Pradesh,Varanasi,Kharif,Maize,1233,2885,2.34,521,27,54,Red,1261
+2023,Uttar Pradesh,Kanpur,Rabi,Sugarcane,897,3570,3.98,501,33,50,Alluvial,1079
+2023,Uttar Pradesh,Kanpur,Kharif,Cotton,735,2410,3.28,871,16,68,Loamy,941
+2023,Uttar Pradesh,Lucknow,Rabi,Bajra,894,1430,1.6,368,30,58,Loamy,876
+2023,Uttar Pradesh,Kanpur,Rabi,Barley,1644,3205,1.95,490,25,51,Alluvial,330
+2023,Punjab,Amritsar,Rabi,Rice,1378,5401,3.92,473,31,67,Sandy,494
+2023,Punjab,Patiala,Kharif,Wheat,1313,2704,2.06,1085,25,72,Black,892
+2023,Punjab,Patiala,Rabi,Maize,1608,3939,2.45,1056,27,66,Loamy,828
+2023,Punjab,Patiala,Kharif,Sugarcane,1328,4262,3.21,1050,17,47,Alluvial,279
+2023,Punjab,Ludhiana,Rabi,Cotton,819,2710,3.31,747,16,49,Black,797
+2023,Punjab,Patiala,Rabi,Bajra,1093,3869,3.54,878,19,80,Sandy,238
+2023,Punjab,Ludhiana,Rabi,Barley,1450,4698,3.24,665,26,56,Red,1391
+2023,Haryana,Karnal,Rabi,Rice,723,1135,1.57,333,35,75,Red,639
+2023,Haryana,Hisar,Kharif,Wheat,1855,5342,2.88,393,35,71,Red,242
+2023,Haryana,Rohtak,Kharif,Maize,963,3351,3.48,412,34,77,Loamy,285
+2023,Haryana,Rohtak,Rabi,Sugarcane,1425,3605,2.53,813,31,77,Alluvial,657
+2023,Haryana,Karnal,Kharif,Cotton,1570,2794,1.78,1158,25,59,Sandy,364
+2023,Haryana,Rohtak,Rabi,Bajra,1127,2096,1.86,958,35,56,Alluvial,387
+2023,Haryana,Karnal,Kharif,Barley,732,1244,1.7,800,26,55,Red,1355
+2023,Rajasthan,Bikaner,Rabi,Rice,1410,3045,2.16,948,34,64,Red,564
+2023,Rajasthan,Bikaner,Kharif,Wheat,1258,4616,3.67,619,20,61,Sandy,260
+2023,Rajasthan,Kota,Rabi,Maize,923,2676,2.9,559,16,63,Loamy,837
+2023,Rajasthan,Kota,Rabi,Sugarcane,1506,3870,2.57,864,22,50,Red,518
+2023,Rajasthan,Bikaner,Rabi,Cotton,689,1143,1.66,1151,32,79,Alluvial,450
+2023,Rajasthan,Kota,Kharif,Bajra,1929,3298,1.71,448,25,45,Loamy,812
+2023,Rajasthan,Jaipur,Kharif,Barley,1488,4434,2.98,419,23,68,Red,812
+2023,Maharashtra,Nashik,Rabi,Rice,941,2794,2.97,1051,15,74,Alluvial,226
+2023,Maharashtra,Nashik,Rabi,Wheat,1790,3544,1.98,519,18,55,Sandy,426
+2023,Maharashtra,Pune,Kharif,Maize,743,1850,2.49,1164,31,68,Loamy,898
+2023,Maharashtra,Nashik,Rabi,Sugarcane,1743,5751,3.3,1072,34,47,Black,1449
+2023,Maharashtra,Nashik,Rabi,Cotton,1632,6038,3.7,538,32,79,Sandy,236
+2023,Maharashtra,Nashik,Kharif,Bajra,616,1552,2.52,981,32,78,Sandy,720
+2023,Maharashtra,Nagpur,Kharif,Barley,1880,7238,3.85,566,30,43,Black,471
+2023,Bihar,Gaya,Kharif,Rice,1710,4394,2.57,915,33,78,Black,557
+2023,Bihar,Patna,Kharif,Wheat,1948,7733,3.97,504,30,72,Black,1384
+2023,Bihar,Muzaffarpur,Rabi,Maize,1013,1691,1.67,1002,27,50,Red,326
+2023,Bihar,Patna,Rabi,Sugarcane,1261,4854,3.85,690,24,54,Sandy,429
+2023,Bihar,Muzaffarpur,Rabi,Cotton,811,2862,3.53,836,23,67,Alluvial,1302
+2023,Bihar,Muzaffarpur,Kharif,Bajra,812,2021,2.49,1018,26,80,Loamy,868
+2023,Bihar,Gaya,Kharif,Barley,1951,3492,1.79,957,19,63,Red,543
+2023,Madhya Pradesh,Indore,Kharif,Rice,899,3470,3.86,836,34,48,Sandy,1017
+2023,Madhya Pradesh,Jabalpur,Rabi,Wheat,1357,3501,2.58,499,30,45,Black,512
+2023,Madhya Pradesh,Bhopal,Rabi,Maize,828,1664,2.01,402,26,55,Red,700
+2023,Madhya Pradesh,Indore,Kharif,Sugarcane,1284,3312,2.58,435,20,66,Alluvial,1080
+2023,Madhya Pradesh,Indore,Kharif,Cotton,1239,3506,2.83,986,19,41,Alluvial,388
+2023,Madhya Pradesh,Jabalpur,Kharif,Bajra,909,1899,2.09,396,16,41,Black,600
+2023,Madhya Pradesh,Indore,Kharif,Barley,1618,5387,3.33,973,16,46,Alluvial,369
+2023,Gujarat,Ahmedabad,Rabi,Rice,1001,2232,2.23,875,19,40,Alluvial,1156
+2023,Gujarat,Rajkot,Kharif,Wheat,1968,3778,1.92,701,26,49,Black,284
+2023,Gujarat,Rajkot,Kharif,Maize,1455,5077,3.49,831,20,79,Sandy,1286
+2023,Gujarat,Surat,Rabi,Sugarcane,1713,2912,1.7,334,33,43,Red,995
+2023,Gujarat,Rajkot,Kharif,Cotton,1824,6019,3.3,1116,32,44,Black,1093
+2023,Gujarat,Ahmedabad,Rabi,Bajra,1134,3572,3.15,912,23,57,Black,1256
+2023,Gujarat,Ahmedabad,Rabi,Barley,1635,3711,2.27,1124,20,43,Loamy,1145
+2023,Karnataka,Hubli,Kharif,Rice,1919,4509,2.35,1183,19,53,Red,1040
+2023,Karnataka,Hubli,Rabi,Wheat,1488,3333,2.24,542,20,53,Sandy,239
+2023,Karnataka,Hubli,Rabi,Maize,886,2737,3.09,597,34,77,Alluvial,455
+2023,Karnataka,Mysuru,Rabi,Sugarcane,1758,6873,3.91,673,23,51,Black,629
+2023,Karnataka,Hubli,Kharif,Cotton,533,1076,2.02,447,25,66,Black,486
+2023,Karnataka,Hubli,Rabi,Bajra,1733,2980,1.72,962,16,77,Loamy,789
+2023,Karnataka,Mysuru,Rabi,Barley,1668,5220,3.13,723,20,56,Loamy,720
+2023,Tamil Nadu,Madurai,Rabi,Rice,582,1455,2.5,995,34,61,Black,950
+2023,Tamil Nadu,Salem,Kharif,Wheat,1756,6865,3.91,414,19,64,Alluvial,1252
+2023,Tamil Nadu,Salem,Rabi,Maize,1973,3492,1.77,403,17,62,Red,1092
+2023,Tamil Nadu,Madurai,Kharif,Sugarcane,1458,3659,2.51,318,21,77,Loamy,929
+2023,Tamil Nadu,Madurai,Kharif,Cotton,935,2187,2.34,734,23,44,Sandy,1376
+2023,Tamil Nadu,Coimbatore,Kharif,Bajra,1724,4568,2.65,1062,29,71,Black,1279
+2023,Tamil Nadu,Coimbatore,Rabi,Barley,1456,4600,3.16,1165,27,72,Alluvial,366
